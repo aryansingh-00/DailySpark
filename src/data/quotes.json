@@ -1,0 +1,4880 @@
+[
+  {
+    "id": 1,
+    "quote": "Success doesn't come from what you do occasionally, but from what you do consistently.",
+    "author": "Unknown",
+    "category": "Success"
+  },
+  {
+    "id": 2,
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Success"
+  },
+  {
+    "id": 3,
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+    "author": "Henry Ford",
+    "category": "Success"
+  },
+  {
+    "id": 4,
+    "quote": "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.",
+    "author": "Charles Darwin",
+    "category": "Life"
+  },
+  {
+    "id": 5,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "Motivation"
+  },
+  {
+    "id": 6,
+    "quote": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "category": "Life"
+  },
+  {
+    "id": 7,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "Business"
+  },
+  {
+    "id": 8,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "Motivation"
+  },
+  {
+    "id": 9,
+    "quote": "The difference between ordinary and extraordinary is that little extra.",
+    "author": "Jimmy Johnson",
+    "category": "Success"
+  },
+  {
+    "id": 10,
+    "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Self Growth"
+  },
+  {
+    "id": 11,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 12,
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "Success"
+  },
+  {
+    "id": 13,
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "Motivation"
+  },
+  {
+    "id": 14,
+    "quote": "Continuous effort - not strength or intelligence - is the key to unlocking our potential.",
+    "author": "Winston Churchill",
+    "category": "Discipline"
+  },
+  {
+    "id": 15,
+    "quote": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "category": "Self Growth"
+  },
+  {
+    "id": 16,
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "category": "Discipline"
+  },
+  {
+    "id": 17,
+    "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+    "author": "Albert Einstein",
+    "category": "Happiness"
+  },
+  {
+    "id": 18,
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "Motivation"
+  },
+  {
+    "id": 19,
+    "quote": "Your life does not get better by chance, it gets better by change.",
+    "author": "Jim Rohn",
+    "category": "Self Growth"
+  },
+  {
+    "id": 20,
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Life"
+  },
+  {
+    "id": 21,
+    "quote": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle Onassis",
+    "category": "Life"
+  },
+  {
+    "id": 22,
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 23,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "Life"
+  },
+  {
+    "id": 24,
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Success"
+  },
+  {
+    "id": 25,
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent Van Gogh",
+    "category": "Motivation"
+  },
+  {
+    "id": 26,
+    "quote": "The successful warrior is the average man, with laser-like focus.",
+    "author": "Bruce Lee",
+    "category": "Discipline"
+  },
+  {
+    "id": 27,
+    "quote": "The path to success is to take massive, determined action.",
+    "author": "Tony Robbins",
+    "category": "Success"
+  },
+  {
+    "id": 28,
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "Discipline"
+  },
+  {
+    "id": 29,
+    "quote": "Opportunities don't happen. You create them.",
+    "author": "Chris Grosser",
+    "category": "Business"
+  },
+  {
+    "id": 30,
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller",
+    "category": "Business"
+  },
+  {
+    "id": 31,
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson",
+    "category": "Success"
+  },
+  {
+    "id": 32,
+    "quote": "Try not to become a man of success, but rather try to become a man of value.",
+    "author": "Albert Einstein",
+    "category": "Success"
+  },
+  {
+    "id": 33,
+    "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+    "author": "Colin Powell",
+    "category": "Success"
+  },
+  {
+    "id": 34,
+    "quote": "Don't count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "Motivation"
+  },
+  {
+    "id": 35,
+    "quote": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "Self Growth"
+  },
+  {
+    "id": 36,
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Self Growth"
+  },
+  {
+    "id": 37,
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "Success"
+  },
+  {
+    "id": 38,
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "Study"
+  },
+  {
+    "id": 39,
+    "quote": "Education is the most powerful weapon which you can use to change the world.",
+    "author": "Nelson Mandela",
+    "category": "Study"
+  },
+  {
+    "id": 40,
+    "quote": "The beautiful thing about learning is that no one can take it away from you.",
+    "author": "B.B. King",
+    "category": "Study"
+  },
+  {
+    "id": 41,
+    "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi",
+    "category": "Study"
+  },
+  {
+    "id": 42,
+    "quote": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "category": "Study"
+  },
+  {
+    "id": 43,
+    "quote": "Study nature, love nature, stay close to nature. It will never fail you.",
+    "author": "Frank Lloyd Wright",
+    "category": "Study"
+  },
+  {
+    "id": 44,
+    "quote": "Learning never exhausts the mind.",
+    "author": "Leonardo da Vinci",
+    "category": "Study"
+  },
+  {
+    "id": 45,
+    "quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+    "author": "Dr. Seuss",
+    "category": "Study"
+  },
+  {
+    "id": 46,
+    "quote": "Develop a passion for learning. If you do, you will never cease to grow.",
+    "author": "Anthony J. D'Angelo",
+    "category": "Study"
+  },
+  {
+    "id": 47,
+    "quote": "There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.",
+    "author": "Jiddu Krishnamurti",
+    "category": "Study"
+  },
+  {
+    "id": 48,
+    "quote": "To have another language is to possess a second soul.",
+    "author": "Charlemagne",
+    "category": "Study"
+  },
+  {
+    "id": 49,
+    "quote": "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.",
+    "author": "Albert Einstein",
+    "category": "Study"
+  },
+  {
+    "id": 50,
+    "quote": "The expert in anything was once a beginner.",
+    "author": "Helen Hayes",
+    "category": "Study"
+  },
+  {
+    "id": 51,
+    "quote": "He who learns but does not think, is lost! He who thinks but does not learn is in great danger.",
+    "author": "Confucius",
+    "category": "Study"
+  },
+  {
+    "id": 52,
+    "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "category": "Study"
+  },
+  {
+    "id": 53,
+    "quote": "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.",
+    "author": "Brian Herbert",
+    "category": "Study"
+  },
+  {
+    "id": 54,
+    "quote": "A room without books is like a body without a soul.",
+    "author": "Marcus Tullius Cicero",
+    "category": "Study"
+  },
+  {
+    "id": 55,
+    "quote": "Never let formal education get in the way of your learning.",
+    "author": "Mark Twain",
+    "category": "Study"
+  },
+  {
+    "id": 56,
+    "quote": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "author": "Aristotle",
+    "category": "Study"
+  },
+  {
+    "id": 57,
+    "quote": "Change is the end result of all true learning.",
+    "author": "Leo Buscaglia",
+    "category": "Study"
+  },
+  {
+    "id": 58,
+    "quote": "The body achieves what the mind believes.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 59,
+    "quote": "Action is the foundational key to all success.",
+    "author": "Pablo Picasso",
+    "category": "Success"
+  },
+  {
+    "id": 60,
+    "quote": "No pain, no gain. Shut up and train.",
+    "author": "Arnold Schwarzenegger",
+    "category": "Fitness"
+  },
+  {
+    "id": 61,
+    "quote": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn",
+    "category": "Fitness"
+  },
+  {
+    "id": 62,
+    "quote": "Your body can stand almost anything. It's your mind that you have to convince.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 63,
+    "quote": "Fitness is not about being better than someone else. It's about being better than you used to be.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 64,
+    "quote": "What hurts today makes you stronger tomorrow.",
+    "author": "Jay Cutler",
+    "category": "Fitness"
+  },
+  {
+    "id": 65,
+    "quote": "If it doesn't challenge you, it doesn't change you.",
+    "author": "Fred Devito",
+    "category": "Fitness"
+  },
+  {
+    "id": 66,
+    "quote": "The only bad workout is the one that didn't happen.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 67,
+    "quote": "Exercise is labor without weariness.",
+    "author": "Samuel Johnson",
+    "category": "Fitness"
+  },
+  {
+    "id": 68,
+    "quote": "To enjoy the glow of good health, you must exercise.",
+    "author": "Gene Tunney",
+    "category": "Fitness"
+  },
+  {
+    "id": 69,
+    "quote": "Motivation is what gets you started. Habit is what keeps you going.",
+    "author": "Jim Ryun",
+    "category": "Discipline"
+  },
+  {
+    "id": 70,
+    "quote": "The hard part isn't getting your body in shape. The hard part is getting your mind in shape.",
+    "author": "Rusty Moore",
+    "category": "Fitness"
+  },
+  {
+    "id": 71,
+    "quote": "Physical fitness is not only one of the most important keys to a healthy body, it is the basis of dynamic and creative intellectual activity.",
+    "author": "John F. Kennedy",
+    "category": "Fitness"
+  },
+  {
+    "id": 72,
+    "quote": "A dynamic body leads to a dynamic mind.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 73,
+    "quote": "You don't have to be extreme, just consistent.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 74,
+    "quote": "Commitment is what transforms a promise into reality.",
+    "author": "Abraham Lincoln",
+    "category": "Discipline"
+  },
+  {
+    "id": 75,
+    "quote": "Energy and persistence conquer all things.",
+    "author": "Benjamin Franklin",
+    "category": "Fitness"
+  },
+  {
+    "id": 76,
+    "quote": "All progress takes place outside the comfort zone.",
+    "author": "Michael John Bobak",
+    "category": "Fitness"
+  },
+  {
+    "id": 77,
+    "quote": "Look in the mirror. That's your competition.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 78,
+    "quote": "First say to yourself what you would be; and then do what you have to do.",
+    "author": "Epictetus",
+    "category": "Discipline"
+  },
+  {
+    "id": 79,
+    "quote": "Discipline is the bridge between goals and accomplishment.",
+    "author": "Jim Rohn",
+    "category": "Discipline"
+  },
+  {
+    "id": 80,
+    "quote": "With self-discipline, almost anything is possible.",
+    "author": "Theodore Roosevelt",
+    "category": "Discipline"
+  },
+  {
+    "id": 81,
+    "quote": "It is not that I am so smart, it's just that I stay with problems longer.",
+    "author": "Albert Einstein",
+    "category": "Discipline"
+  },
+  {
+    "id": 82,
+    "quote": "Freedom is secured not by the fulfilling of one's desires, but by the removal of desire.",
+    "author": "Epictetus",
+    "category": "Discipline"
+  },
+  {
+    "id": 83,
+    "quote": "He who cannot obey himself will be commanded. That is the nature of living creatures.",
+    "author": "Friedrich Nietzsche",
+    "category": "Discipline"
+  },
+  {
+    "id": 84,
+    "quote": "No man is free who cannot command himself.",
+    "author": "Pythagoras",
+    "category": "Discipline"
+  },
+  {
+    "id": 85,
+    "quote": "He who reigns within himself and rules passions, desires, and fears is more than a king.",
+    "author": "John Milton",
+    "category": "Discipline"
+  },
+  {
+    "id": 86,
+    "quote": "Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.",
+    "author": "Abraham Joshua Heschel",
+    "category": "Discipline"
+  },
+  {
+    "id": 87,
+    "quote": "The successful man is the average man, focused.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 88,
+    "quote": "If you do not rule your mind, it will rule you.",
+    "author": "Horace",
+    "category": "Discipline"
+  },
+  {
+    "id": 89,
+    "quote": "Mastering others is strength. Mastering yourself is true power.",
+    "author": "Lao Tzu",
+    "category": "Discipline"
+  },
+  {
+    "id": 90,
+    "quote": "The secret of freedom lies in educating people, whereas the secret of tyranny is in keeping them ignorant.",
+    "author": "Maximilien Robespierre",
+    "category": "Discipline"
+  },
+  {
+    "id": 91,
+    "quote": "By constant self-discipline and self-control, you can develop greatness of character.",
+    "author": "Grenville Kleiser",
+    "category": "Discipline"
+  },
+  {
+    "id": 92,
+    "quote": "I count him braver who overcomes his desires than him who conquers his enemies, for the hardest victory is over self.",
+    "author": "Aristotle",
+    "category": "Discipline"
+  },
+  {
+    "id": 93,
+    "quote": "Small daily improvements over time lead to stunning results.",
+    "author": "Robin Sharma",
+    "category": "Discipline"
+  },
+  {
+    "id": 94,
+    "quote": "It's not the load that breaks you, it's the way you carry it.",
+    "author": "Lou Holtz",
+    "category": "Discipline"
+  },
+  {
+    "id": 95,
+    "quote": "Discipline is choosing between what you want now and what you want most.",
+    "author": "Abraham Lincoln",
+    "category": "Discipline"
+  },
+  {
+    "id": 96,
+    "quote": "The price of excellence is discipline. The cost of mediocrity is disappointment.",
+    "author": "William Arthur Ward",
+    "category": "Discipline"
+  },
+  {
+    "id": 97,
+    "quote": "Work expands so as to fill the time available for its completion.",
+    "author": "C. Northcote Parkinson",
+    "category": "Business"
+  },
+  {
+    "id": 98,
+    "quote": "A business that makes nothing but money is a poor business.",
+    "author": "Henry Ford",
+    "category": "Business"
+  },
+  {
+    "id": 99,
+    "quote": "Play by the rules, but be ferocious.",
+    "author": "Phil Knight",
+    "category": "Business"
+  },
+  {
+    "id": 100,
+    "quote": "Chase the vision, not the money; the money will end up following you.",
+    "author": "Tony Hsieh",
+    "category": "Business"
+  },
+  {
+    "id": 101,
+    "quote": "Your most unhappy customers are your greatest source of learning.",
+    "author": "Bill Gates",
+    "category": "Business"
+  },
+  {
+    "id": 102,
+    "quote": "Make your product so good that users become your marketing team.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 103,
+    "quote": "Price is what you pay. Value is what you get.",
+    "author": "Warren Buffett",
+    "category": "Business"
+  },
+  {
+    "id": 104,
+    "quote": "If you are not embarrassed by the first version of your product, you've launched too late.",
+    "author": "Reid Hoffman",
+    "category": "Business"
+  },
+  {
+    "id": 105,
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": "Business"
+  },
+  {
+    "id": 106,
+    "quote": "Capital isn't scarce; vision is.",
+    "author": "Sam Walton",
+    "category": "Business"
+  },
+  {
+    "id": 107,
+    "quote": "Don't find customers for your products, find products for your customers.",
+    "author": "Seth Godin",
+    "category": "Business"
+  },
+  {
+    "id": 108,
+    "quote": "Design is not just what it looks like and feels like. Design is how it works.",
+    "author": "Steve Jobs",
+    "category": "Business"
+  },
+  {
+    "id": 109,
+    "quote": "Quality means doing it right when no one is looking.",
+    "author": "Henry Ford",
+    "category": "Business"
+  },
+  {
+    "id": 110,
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "Business"
+  },
+  {
+    "id": 111,
+    "quote": "Risk comes from not knowing what you're doing.",
+    "author": "Warren Buffett",
+    "category": "Business"
+  },
+  {
+    "id": 112,
+    "quote": "Business opportunities are like buses, there's always another one coming.",
+    "author": "Richard Branson",
+    "category": "Business"
+  },
+  {
+    "id": 113,
+    "quote": "In the business world, the rearview mirror is always clearer than the windshield.",
+    "author": "Warren Buffett",
+    "category": "Business"
+  },
+  {
+    "id": 114,
+    "quote": "The core of business is to make human lives better.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 115,
+    "quote": "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.",
+    "author": "Jeff Bezos",
+    "category": "Business"
+  },
+  {
+    "id": 116,
+    "quote": "Be insanely user-centric. The customer always wins.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 117,
+    "quote": "There is only one happiness in this life, to love and be loved.",
+    "author": "George Sand",
+    "category": "Love"
+  },
+  {
+    "id": 118,
+    "quote": "Love is composed of a single soul inhabiting two bodies.",
+    "author": "Aristotle",
+    "category": "Love"
+  },
+  {
+    "id": 119,
+    "quote": "We accept the love we think we deserve.",
+    "author": "Stephen Chbosky",
+    "category": "Love"
+  },
+  {
+    "id": 120,
+    "quote": "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+    "author": "Oscar Wilde",
+    "category": "Love"
+  },
+  {
+    "id": 121,
+    "quote": "The best thing to hold onto in life is each other.",
+    "author": "Audrey Hepburn",
+    "category": "Love"
+  },
+  {
+    "id": 122,
+    "quote": "Love does not consist in gazing at each other, but in looking outward together in the same direction.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Love"
+  },
+  {
+    "id": 123,
+    "quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+    "author": "Lao Tzu",
+    "category": "Love"
+  },
+  {
+    "id": 124,
+    "quote": "Love all, trust a few, do wrong to none.",
+    "author": "William Shakespeare",
+    "category": "Love"
+  },
+  {
+    "id": 125,
+    "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+    "author": "Dr. Seuss",
+    "category": "Love"
+  },
+  {
+    "id": 126,
+    "quote": "At the touch of love everyone becomes a poet.",
+    "author": "Plato",
+    "category": "Love"
+  },
+  {
+    "id": 127,
+    "quote": "The art of love is largely the art of persistence.",
+    "author": "Albert Ellis",
+    "category": "Love"
+  },
+  {
+    "id": 128,
+    "quote": "We are shaped and fashioned by what we love.",
+    "author": "Johann Wolfgang von Goethe",
+    "category": "Love"
+  },
+  {
+    "id": 129,
+    "quote": "To love and be loved is to feel the sun from both sides.",
+    "author": "David Viscott",
+    "category": "Love"
+  },
+  {
+    "id": 130,
+    "quote": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "category": "Love"
+  },
+  {
+    "id": 131,
+    "quote": "Love is not only something you feel, it is something you do.",
+    "author": "David Wilkerson",
+    "category": "Love"
+  },
+  {
+    "id": 132,
+    "quote": "The greatest happiness of life is the conviction that we are loved.",
+    "author": "Victor Hugo",
+    "category": "Love"
+  },
+  {
+    "id": 133,
+    "quote": "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.",
+    "author": "Maya Angelou",
+    "category": "Love"
+  },
+  {
+    "id": 134,
+    "quote": "If you would be loved, love, and be loveable.",
+    "author": "Benjamin Franklin",
+    "category": "Love"
+  },
+  {
+    "id": 135,
+    "quote": "The giving of love is an education in itself.",
+    "author": "Eleanor Roosevelt",
+    "category": "Love"
+  },
+  {
+    "id": 136,
+    "quote": "Love is the only force capable of transforming an enemy into a friend.",
+    "author": "Martin Luther King Jr.",
+    "category": "Love"
+  },
+  {
+    "id": 137,
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "Happiness"
+  },
+  {
+    "id": 138,
+    "quote": "For every minute you are angry you lose sixty seconds of happiness.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Happiness"
+  },
+  {
+    "id": 139,
+    "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "author": "Mahatma Gandhi",
+    "category": "Happiness"
+  },
+  {
+    "id": 140,
+    "quote": "The only way to find true happiness is to risk being completely cut open.",
+    "author": "Chuck Palahniuk",
+    "category": "Happiness"
+  },
+  {
+    "id": 141,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "id": 142,
+    "quote": "Most folks are as happy as they make up their minds to be.",
+    "author": "Abraham Lincoln",
+    "category": "Happiness"
+  },
+  {
+    "id": 143,
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "id": 144,
+    "quote": "The happiest people don't have the best of everything, they just make the best of everything.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 145,
+    "quote": "Happiness is a warm puppy.",
+    "author": "Charles M. Schulz",
+    "category": "Happiness"
+  },
+  {
+    "id": 146,
+    "quote": "Sanity and happiness are an impossible combination.",
+    "author": "Mark Twain",
+    "category": "Happiness"
+  },
+  {
+    "id": 147,
+    "quote": "No medicine cures what happiness cannot.",
+    "author": "Gabriel García Márquez",
+    "category": "Happiness"
+  },
+  {
+    "id": 148,
+    "quote": "Happiness is not a state to arrive at, but a manner of traveling.",
+    "author": "Margaret Lee Runbeck",
+    "category": "Happiness"
+  },
+  {
+    "id": 149,
+    "quote": "It is more fitting for a man to laugh at life than to lament over it.",
+    "author": "Seneca",
+    "category": "Happiness"
+  },
+  {
+    "id": 150,
+    "quote": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius",
+    "category": "Happiness"
+  },
+  {
+    "id": 151,
+    "quote": "True happiness is... to enjoy the present, without anxious dependence upon the future.",
+    "author": "Seneca",
+    "category": "Happiness"
+  },
+  {
+    "id": 152,
+    "quote": "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
+    "author": "Marcel Proust",
+    "category": "Happiness"
+  },
+  {
+    "id": 153,
+    "quote": "Happiness lies in the joy of achievement and the thrill of creative effort.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Happiness"
+  },
+  {
+    "id": 154,
+    "quote": "If you want to be happy, be.",
+    "author": "Leo Tolstoy",
+    "category": "Happiness"
+  },
+  {
+    "id": 155,
+    "quote": "Joy is not in things; it is in us.",
+    "author": "Richard Wagner",
+    "category": "Happiness"
+  },
+  {
+    "id": 156,
+    "quote": "Happiness is having a large, loving, caring, close-knit family in another city.",
+    "author": "George Burns",
+    "category": "Happiness"
+  },
+  {
+    "id": 157,
+    "quote": "One's growth is never complete, but is a lifetime project.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 158,
+    "quote": "Life is growth. If we stop growing, technically and spiritually, we are as good as dead.",
+    "author": "Morihei Ueshiba",
+    "category": "Self Growth"
+  },
+  {
+    "id": 159,
+    "quote": "Personal growth is not a matter of learning new facts, but of developing new capacities.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 160,
+    "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
+    "author": "Ernest Hemingway",
+    "category": "Self Growth"
+  },
+  {
+    "id": 161,
+    "quote": "Growth begins when we begin to accept our own weakness.",
+    "author": "Jean Vanier",
+    "category": "Self Growth"
+  },
+  {
+    "id": 162,
+    "quote": "Without continual growth and progress, such words as improvement, achievement, and success have no meaning.",
+    "author": "Benjamin Franklin",
+    "category": "Self Growth"
+  },
+  {
+    "id": 163,
+    "quote": "The longest journey is the journey inwards.",
+    "author": "Dag Hammarskjöld",
+    "category": "Self Growth"
+  },
+  {
+    "id": 164,
+    "quote": "We find comfort among those who agree with us, growth among those who don't.",
+    "author": "Frank A. Clark",
+    "category": "Self Growth"
+  },
+  {
+    "id": 165,
+    "quote": "Be not afraid of growing slowly, be afraid only of standing still.",
+    "author": "Chinese Proverb",
+    "category": "Self Growth"
+  },
+  {
+    "id": 166,
+    "quote": "Income seldom exceeds personal development.",
+    "author": "Jim Rohn",
+    "category": "Self Growth"
+  },
+  {
+    "id": 167,
+    "quote": "Become the change you want to see in the mirror.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 168,
+    "quote": "What we think, we become. What we feel, we attract. What we imagine, we create.",
+    "author": "Buddha",
+    "category": "Self Growth"
+  },
+  {
+    "id": 169,
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "Self Growth"
+  },
+  {
+    "id": 170,
+    "quote": "The growth and development of people is the highest calling of leadership.",
+    "author": "Harvey S. Firestone",
+    "category": "Self Growth"
+  },
+  {
+    "id": 171,
+    "quote": "Look for growth, not perfection. Perfection is a destination, growth is a path.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 172,
+    "quote": "If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.",
+    "author": "Jim Rohn",
+    "category": "Self Growth"
+  },
+  {
+    "id": 173,
+    "quote": "Recognize that your true potential lies far beyond the bounds of your comfort zone.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 174,
+    "quote": "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
+    "author": "William James",
+    "category": "Self Growth"
+  },
+  {
+    "id": 175,
+    "quote": "We must become the change we wish to see in ourselves.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 176,
+    "quote": "We do not grow when things are easy, we grow when we face challenges.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 177,
+    "quote": "Live in the sunshine, swim the sea, drink the wild air.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Life"
+  },
+  {
+    "id": 178,
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "Life"
+  },
+  {
+    "id": 179,
+    "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+    "author": "Robert Frost",
+    "category": "Life"
+  },
+  {
+    "id": 180,
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "Life"
+  },
+  {
+    "id": 181,
+    "quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+    "author": "Mark Twain",
+    "category": "Life"
+  },
+  {
+    "id": 182,
+    "quote": "Life is short, and it is up to you to make it sweet.",
+    "author": "Sarah Louise Delany",
+    "category": "Life"
+  },
+  {
+    "id": 183,
+    "quote": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Life"
+  },
+  {
+    "id": 184,
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "Life"
+  },
+  {
+    "id": 185,
+    "quote": "Only a life lived for others is a life worthwhile.",
+    "author": "Albert Einstein",
+    "category": "Life"
+  },
+  {
+    "id": 186,
+    "quote": "Life would be tragic if it weren't funny.",
+    "author": "Stephen Hawking",
+    "category": "Life"
+  },
+  {
+    "id": 187,
+    "quote": "Get busy living or get busy dying.",
+    "author": "Stephen King",
+    "category": "Life"
+  },
+  {
+    "id": 188,
+    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein",
+    "category": "Life"
+  },
+  {
+    "id": 189,
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "Life"
+  },
+  {
+    "id": 190,
+    "quote": "The unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "Life"
+  },
+  {
+    "id": 191,
+    "quote": "If life were predictable it would cease to be life, and be without flavor.",
+    "author": "Eleanor Roosevelt",
+    "category": "Life"
+  },
+  {
+    "id": 192,
+    "quote": "Do not take life too seriously. You will never get out of it alive.",
+    "author": "Elbert Hubbard",
+    "category": "Life"
+  },
+  {
+    "id": 193,
+    "quote": "Not how long, but how well you have lived is the main thing.",
+    "author": "Seneca",
+    "category": "Life"
+  },
+  {
+    "id": 194,
+    "quote": "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.",
+    "author": "Maya Angelou",
+    "category": "Life"
+  },
+  {
+    "id": 195,
+    "quote": "The biggest adventure you can take is to live the life of your dreams.",
+    "author": "Oprah Winfrey",
+    "category": "Life"
+  },
+  {
+    "id": 196,
+    "quote": "Every saint has a past, and every sinner has a future.",
+    "author": "Oscar Wilde",
+    "category": "Life"
+  },
+  {
+    "id": 197,
+    "quote": "Nothing is impossible, the word itself says 'I'm possible'!",
+    "author": "Audrey Hepburn",
+    "category": "Motivation"
+  },
+  {
+    "id": 198,
+    "quote": "If you hear a voice within you say 'you cannot paint,' then by all means paint and that voice will be silenced.",
+    "author": "Vincent Van Gogh",
+    "category": "Motivation"
+  },
+  {
+    "id": 199,
+    "quote": "The only way of finding the limits of the possible is by going beyond them into the impossible.",
+    "author": "Arthur C. Clarke",
+    "category": "Motivation"
+  },
+  {
+    "id": 200,
+    "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+    "author": "Stephen Covey",
+    "category": "Motivation"
+  },
+  {
+    "id": 201,
+    "quote": "The starting point of all achievement is desire.",
+    "author": "Napoleon Hill",
+    "category": "Motivation"
+  },
+  {
+    "id": 202,
+    "quote": "If you want to achieve greatness stop asking for permission.",
+    "author": "Unknown",
+    "category": "Motivation"
+  },
+  {
+    "id": 203,
+    "quote": "Things work out best for those who make the best of how things work out.",
+    "author": "John Wooden",
+    "category": "Motivation"
+  },
+  {
+    "id": 204,
+    "quote": "To live a creative life, we must lose our fear of being wrong.",
+    "author": "Joseph Chilton Pearce",
+    "category": "Motivation"
+  },
+  {
+    "id": 205,
+    "quote": "If you are not willing to risk the usual you will have to settle for the ordinary.",
+    "author": "Jim Rohn",
+    "category": "Motivation"
+  },
+  {
+    "id": 206,
+    "quote": "Trust because you are willing to accept the risk, not because it's safe or certain.",
+    "author": "Unknown",
+    "category": "Motivation"
+  },
+  {
+    "id": 207,
+    "quote": "All our dreams can come true if we have the courage to pursue them.",
+    "author": "Walt Disney",
+    "category": "Motivation"
+  },
+  {
+    "id": 208,
+    "quote": "Good things come to people who wait, but better things come to those who go out and get them.",
+    "author": "Unknown",
+    "category": "Motivation"
+  },
+  {
+    "id": 209,
+    "quote": "If you do what you always did, you will get what you always got.",
+    "author": "Unknown",
+    "category": "Motivation"
+  },
+  {
+    "id": 210,
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "category": "Motivation"
+  },
+  {
+    "id": 211,
+    "quote": "Just when the caterpillar thought the world was ending, he turned into a butterfly.",
+    "author": "Proverb",
+    "category": "Motivation"
+  },
+  {
+    "id": 212,
+    "quote": "Whenever you see a successful business, someone once made a courageous decision.",
+    "author": "Peter F. Drucker",
+    "category": "Motivation"
+  },
+  {
+    "id": 213,
+    "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "author": "Eleanor Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 214,
+    "quote": "If you don't value your time, neither will others. Stop giving away your time and talents.",
+    "author": "Kim Garst",
+    "category": "Motivation"
+  },
+  {
+    "id": 215,
+    "quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+    "author": "David Brinkley",
+    "category": "Motivation"
+  },
+  {
+    "id": 216,
+    "quote": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 217,
+    "quote": "The whole secret of a successful life is to find out what is one's destiny to do, and then do it.",
+    "author": "Henry Ford",
+    "category": "Motivation"
+  },
+  {
+    "id": 218,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "Motivation"
+  },
+  {
+    "id": 219,
+    "quote": "The ones who are crazy enough to think they can change the world are the ones who do.",
+    "author": "Steve Jobs",
+    "category": "Motivation"
+  },
+  {
+    "id": 220,
+    "quote": "Don't raise your voice, improve your argument.",
+    "author": "Desmond Tutu",
+    "category": "Motivation"
+  },
+  {
+    "id": 221,
+    "quote": "What seems to us as bitter trials are often blessings in disguise.",
+    "author": "Oscar Wilde",
+    "category": "Motivation"
+  },
+  {
+    "id": 222,
+    "quote": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+    "author": "Pablo Picasso",
+    "category": "Motivation"
+  },
+  {
+    "id": 223,
+    "quote": "The distance between insanity and genius is measured only by success.",
+    "author": "Bruce Feirstein",
+    "category": "Motivation"
+  },
+  {
+    "id": 224,
+    "quote": "When you stop chasing the wrong things, you give the right things a chance to catch you.",
+    "author": "Lolly Daskal",
+    "category": "Motivation"
+  },
+  {
+    "id": 225,
+    "quote": "No masterpiece was ever created by a lazy artist.",
+    "author": "Unknown",
+    "category": "Motivation"
+  },
+  {
+    "id": 226,
+    "quote": "If you can't explain it simply, you don't understand it well enough.",
+    "author": "Albert Einstein",
+    "category": "Motivation"
+  },
+  {
+    "id": 227,
+    "quote": "Blessed are those who can give without remembering and take without forgetting.",
+    "author": "Elizabeth Bibesco",
+    "category": "Motivation"
+  },
+  {
+    "id": 228,
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 229,
+    "quote": "What's the point of being alive if you don't at least try to do something remarkable.",
+    "author": "John Green",
+    "category": "Motivation"
+  },
+  {
+    "id": 230,
+    "quote": "Life is not about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw",
+    "category": "Motivation"
+  },
+  {
+    "id": 231,
+    "quote": "Nothing in the world is more common than unsuccessful people with talent.",
+    "author": "Unknown",
+    "category": "Motivation"
+  },
+  {
+    "id": 232,
+    "quote": "Knowledge is realized in all action.",
+    "author": "Bhagavad Gita",
+    "category": "Motivation"
+  },
+  {
+    "id": 233,
+    "quote": "You must do the things you think you cannot do.",
+    "author": "Eleanor Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 234,
+    "quote": "Failure is the condiment that gives success its flavor.",
+    "author": "Truman Capote",
+    "category": "Motivation"
+  },
+  {
+    "id": 235,
+    "quote": "The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.",
+    "author": "Mark Caine",
+    "category": "Motivation"
+  },
+  {
+    "id": 236,
+    "quote": "When I dare to be powerful - to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
+    "author": "Audre Lorde",
+    "category": "Motivation"
+  },
+  {
+    "id": 237,
+    "quote": "A goal is a dream with a deadline.",
+    "author": "Napoleon Hill",
+    "category": "Motivation"
+  },
+  {
+    "id": 238,
+    "quote": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+    "author": "Christopher Columbus",
+    "category": "Motivation"
+  },
+  {
+    "id": 239,
+    "quote": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
+    "author": "Wayne Dyer",
+    "category": "Motivation"
+  },
+  {
+    "id": 240,
+    "quote": "You must expect great things of yourself before you can do them.",
+    "author": "Michael Jordan",
+    "category": "Motivation"
+  },
+  {
+    "id": 241,
+    "quote": "Courage is resistance to fear, mastery of fear, not absence of fear.",
+    "author": "Mark Twain",
+    "category": "Motivation"
+  },
+  {
+    "id": 242,
+    "quote": "Only the paranoid survive.",
+    "author": "Andy Grove",
+    "category": "Motivation"
+  },
+  {
+    "id": 243,
+    "quote": "We become what we think about.",
+    "author": "Earl Nightingale",
+    "category": "Motivation"
+  },
+  {
+    "id": 244,
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "Motivation"
+  },
+  {
+    "id": 245,
+    "quote": "Everything has beauty, but not everyone can see.",
+    "author": "Confucius",
+    "category": "Motivation"
+  },
+  {
+    "id": 246,
+    "quote": "The critical ingredient is getting off your butt and doing something. It’s as simple as that.",
+    "author": "Nolan Bushnell",
+    "category": "Motivation"
+  },
+  {
+    "id": 247,
+    "quote": "Small opportunities are the beginning of great enterprises.",
+    "author": "Demosthenes",
+    "category": "Motivation"
+  },
+  {
+    "id": 248,
+    "quote": "Your dream has to be bigger than your fear.",
+    "author": "Steve Harvey",
+    "category": "Motivation"
+  },
+  {
+    "id": 249,
+    "quote": "Don't wish it were easier. Wish you were better.",
+    "author": "Jim Rohn",
+    "category": "Motivation"
+  },
+  {
+    "id": 250,
+    "quote": "Opportunities multiply as they are seized.",
+    "author": "Sun Tzu",
+    "category": "Motivation"
+  },
+  {
+    "id": 251,
+    "quote": "Even if you fall on your face, you're still moving forward.",
+    "author": "Victor Kiam",
+    "category": "Motivation"
+  },
+  {
+    "id": 252,
+    "quote": "It is never too late to be what you might have been.",
+    "author": "George Eliot",
+    "category": "Motivation"
+  },
+  {
+    "id": 253,
+    "quote": "Strive for progress, not perfection.",
+    "author": "Unknown",
+    "category": "Motivation"
+  },
+  {
+    "id": 254,
+    "quote": "The key to life is accepting challenges. Once someone stops doing this, he's dead.",
+    "author": "Bette Davis",
+    "category": "Motivation"
+  },
+  {
+    "id": 255,
+    "quote": "Great spirits have always encountered violent opposition from mediocre minds.",
+    "author": "Albert Einstein",
+    "category": "Motivation"
+  },
+  {
+    "id": 256,
+    "quote": "Keep your face always toward the sunshine - and shadows will fall behind you.",
+    "author": "Walt Whitman",
+    "category": "Motivation"
+  },
+  {
+    "id": 257,
+    "quote": "You just can't beat the person who won't give up.",
+    "author": "Babe Ruth",
+    "category": "Motivation"
+  },
+  {
+    "id": 258,
+    "quote": "With the new day comes new strength and new thoughts.",
+    "author": "Eleanor Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "id": 259,
+    "quote": "We may encounter many defeats but we must not be defeated.",
+    "author": "Maya Angelou",
+    "category": "Motivation"
+  },
+  {
+    "id": 260,
+    "quote": "Light tomorrow with today!",
+    "author": "Elizabeth Barrett Browning",
+    "category": "Motivation"
+  },
+  {
+    "id": 261,
+    "quote": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis",
+    "category": "Motivation"
+  },
+  {
+    "id": 262,
+    "quote": "Believe in yourself and all that you are.",
+    "author": "Christian D. Larson",
+    "category": "Motivation"
+  },
+  {
+    "id": 263,
+    "quote": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "Motivation"
+  },
+  {
+    "id": 264,
+    "quote": "You don't have to be great to start, but you have to start to be great.",
+    "author": "Zig Ziglar",
+    "category": "Motivation"
+  },
+  {
+    "id": 265,
+    "quote": "What you get by achieving your goals is not as important as what you become.",
+    "author": "Zig Ziglar",
+    "category": "Motivation"
+  },
+  {
+    "id": 266,
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "Motivation"
+  },
+  {
+    "id": 267,
+    "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston S. Churchill",
+    "category": "Success"
+  },
+  {
+    "id": 268,
+    "quote": "It is better to fail in originality than to succeed in imitation.",
+    "author": "Herman Melville",
+    "category": "Success"
+  },
+  {
+    "id": 269,
+    "quote": "The road to success and the road to failure are almost exactly the same.",
+    "author": "Colin R. Davis",
+    "category": "Success"
+  },
+  {
+    "id": 270,
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "category": "Success"
+  },
+  {
+    "id": 271,
+    "quote": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+    "author": "Dale Carnegie",
+    "category": "Success"
+  },
+  {
+    "id": 272,
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer",
+    "category": "Success"
+  },
+  {
+    "id": 273,
+    "quote": "Success is gettin' what you want. Happiness is wantin' what you get.",
+    "author": "W.P. Kinsella",
+    "category": "Success"
+  },
+  {
+    "id": 274,
+    "quote": "The elevator to success is out of order. You’ll have to use the stairs... one step at a time.",
+    "author": "Joe Girard",
+    "category": "Success"
+  },
+  {
+    "id": 275,
+    "quote": "Success is simply a matter of luck. Ask any failure.",
+    "author": "Earl Wilson",
+    "category": "Success"
+  },
+  {
+    "id": 276,
+    "quote": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon",
+    "category": "Success"
+  },
+  {
+    "id": 277,
+    "quote": "Success is sweet: the pathway on which it is achieved is often very bitter.",
+    "author": "Unknown",
+    "category": "Success"
+  },
+  {
+    "id": 278,
+    "quote": "If you really look closely, most overnight successes took a long time.",
+    "author": "Steve Jobs",
+    "category": "Success"
+  },
+  {
+    "id": 279,
+    "quote": "The secret of success is to do the common thing uncommonly well.",
+    "author": "John D. Rockefeller Jr.",
+    "category": "Success"
+  },
+  {
+    "id": 280,
+    "quote": "I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite.",
+    "author": "G.K. Chesterton",
+    "category": "Success"
+  },
+  {
+    "id": 281,
+    "quote": "I failed my way to success.",
+    "author": "Thomas A. Edison",
+    "category": "Success"
+  },
+  {
+    "id": 282,
+    "quote": "Would you like me to give you a formula for success? It's quite simple, really: Double your rate of failure.",
+    "author": "Thomas J. Watson",
+    "category": "Success"
+  },
+  {
+    "id": 283,
+    "quote": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.",
+    "author": "Booker T. Washington",
+    "category": "Success"
+  },
+  {
+    "id": 284,
+    "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "author": "Roy T. Bennett",
+    "category": "Success"
+  },
+  {
+    "id": 285,
+    "quote": "There is a powerful driving force inside every human being that, once unleashed, can make any vision, dream, or desire a reality.",
+    "author": "Tony Robbins",
+    "category": "Success"
+  },
+  {
+    "id": 286,
+    "quote": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier",
+    "category": "Success"
+  },
+  {
+    "id": 287,
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius",
+    "category": "Success"
+  },
+  {
+    "id": 288,
+    "quote": "Success is not in what you have, but who you have become.",
+    "author": "Bo Bennett",
+    "category": "Success"
+  },
+  {
+    "id": 289,
+    "quote": "The successful man will profit from his mistakes and try again in a different way.",
+    "author": "Dale Carnegie",
+    "category": "Success"
+  },
+  {
+    "id": 290,
+    "quote": "A champion is defined not by their wins but by how they can recover when they fall.",
+    "author": "Serena Williams",
+    "category": "Success"
+  },
+  {
+    "id": 291,
+    "quote": "Success is the residue of design.",
+    "author": "Branch Rickey",
+    "category": "Success"
+  },
+  {
+    "id": 292,
+    "quote": "Behind every successful man there's a lot of unsuccessful years.",
+    "author": "Bob Brown",
+    "category": "Success"
+  },
+  {
+    "id": 293,
+    "quote": "I've failed over and over and over again in my life and that is why I succeed.",
+    "author": "Michael Jordan",
+    "category": "Success"
+  },
+  {
+    "id": 294,
+    "quote": "The secret of success in life is for a man to be ready for his opportunity when it comes.",
+    "author": "Benjamin Disraeli",
+    "category": "Success"
+  },
+  {
+    "id": 295,
+    "quote": "To succeed in life, you need two things: ignorance and confidence.",
+    "author": "Mark Twain",
+    "category": "Success"
+  },
+  {
+    "id": 296,
+    "quote": "If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.",
+    "author": "John D. Rockefeller",
+    "category": "Success"
+  },
+  {
+    "id": 297,
+    "quote": "Success is a science; if you have the conditions, you get the result.",
+    "author": "Oscar Wilde",
+    "category": "Success"
+  },
+  {
+    "id": 298,
+    "quote": "Success is most often achieved by those who don't know that failure is inevitable.",
+    "author": "Coco Chanel",
+    "category": "Success"
+  },
+  {
+    "id": 299,
+    "quote": "Let the improvement of yourself keep you so busy that you have no time to criticize others.",
+    "author": "Roy T. Bennett",
+    "category": "Success"
+  },
+  {
+    "id": 300,
+    "quote": "He has achieved success who has lived well, laughed often, and loved much.",
+    "author": "Bessie Anderson Stanley",
+    "category": "Success"
+  },
+  {
+    "id": 301,
+    "quote": "It is your determination and commitment that makes you successful.",
+    "author": "Unknown",
+    "category": "Success"
+  },
+  {
+    "id": 302,
+    "quote": "We learn wisdom from failure much more than from success.",
+    "author": "Samuel Smiles",
+    "category": "Success"
+  },
+  {
+    "id": 303,
+    "quote": "Patience, persistence and perspiration make an unbeatable combination for success.",
+    "author": "Napoleon Hill",
+    "category": "Success"
+  },
+  {
+    "id": 304,
+    "quote": "Success is focusing on the solution, not the problem.",
+    "author": "Unknown",
+    "category": "Success"
+  },
+  {
+    "id": 305,
+    "quote": "Define success on your own terms, achieve it by your own rules, and build a life you're proud to live.",
+    "author": "Anne Sweeney",
+    "category": "Success"
+  },
+  {
+    "id": 306,
+    "quote": "Your success is determined by what you are willing to sacrifice for it.",
+    "author": "Unknown",
+    "category": "Success"
+  },
+  {
+    "id": 307,
+    "quote": "Success is liking yourself, liking what you do, and liking how you do it.",
+    "author": "Maya Angelou",
+    "category": "Success"
+  },
+  {
+    "id": 308,
+    "quote": "The secret to success is to know something nobody else knows.",
+    "author": "Aristotle Onassis",
+    "category": "Success"
+  },
+  {
+    "id": 309,
+    "quote": "Success means doing the best we can with what we have. Success is the doing, not the getting.",
+    "author": "Zig Ziglar",
+    "category": "Success"
+  },
+  {
+    "id": 310,
+    "quote": "Success is how high you bounce when you hit bottom.",
+    "author": "George S. Patton",
+    "category": "Success"
+  },
+  {
+    "id": 311,
+    "quote": "Ambition is the path to success. Persistence is the vehicle you arrive in.",
+    "author": "Bill Bradley",
+    "category": "Success"
+  },
+  {
+    "id": 312,
+    "quote": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.",
+    "author": "Vince Lombardi",
+    "category": "Success"
+  },
+  {
+    "id": 313,
+    "quote": "Success is simple. Do what's right, the right way, at the right time.",
+    "author": "Arnold H. Glasow",
+    "category": "Success"
+  },
+  {
+    "id": 314,
+    "quote": "Success is not a destination, it’s a journey.",
+    "author": "Zig Ziglar",
+    "category": "Success"
+  },
+  {
+    "id": 315,
+    "quote": "I attribute my success to this: I never gave or took any excuse.",
+    "author": "Florence Nightingale",
+    "category": "Success"
+  },
+  {
+    "id": 316,
+    "quote": "You have to learn the rules of the game. And then you have to play better than anyone else.",
+    "author": "Albert Einstein",
+    "category": "Success"
+  },
+  {
+    "id": 317,
+    "quote": "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
+    "author": "Herbert Bayard Swope",
+    "category": "Success"
+  },
+  {
+    "id": 318,
+    "quote": "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.",
+    "author": "John Wooden",
+    "category": "Success"
+  },
+  {
+    "id": 319,
+    "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    "author": "Thomas A. Edison",
+    "category": "Success"
+  },
+  {
+    "id": 320,
+    "quote": "The key to success is to focus on goals, not obstacles.",
+    "author": "Unknown",
+    "category": "Success"
+  },
+  {
+    "id": 321,
+    "quote": "Success seems to be connected with action. Successful people keep moving.",
+    "author": "Conrad Hilton",
+    "category": "Success"
+  },
+  {
+    "id": 322,
+    "quote": "If you want to achieve success, then stop looking for it and start working for it.",
+    "author": "Unknown",
+    "category": "Success"
+  },
+  {
+    "id": 323,
+    "quote": "The first step toward success is taken when you refuse to be a captive of the environment.",
+    "author": "Mark Caine",
+    "category": "Success"
+  },
+  {
+    "id": 324,
+    "quote": "What is success? I think it is a mixture of having a flair for the thing that you are doing.",
+    "author": "Margaret Thatcher",
+    "category": "Success"
+  },
+  {
+    "id": 325,
+    "quote": "Success is a state of mind. If you want success, start thinking of yourself as a success.",
+    "author": "Dr. Joyce Brothers",
+    "category": "Success"
+  },
+  {
+    "id": 326,
+    "quote": "Successful people do what unsuccessful people are not willing to do.",
+    "author": "Eric Thomas",
+    "category": "Success"
+  },
+  {
+    "id": 327,
+    "quote": "Success is the child of audacity.",
+    "author": "Benjamin Disraeli",
+    "category": "Success"
+  },
+  {
+    "id": 328,
+    "quote": "The secret of success is constancy to purpose.",
+    "author": "Benjamin Disraeli",
+    "category": "Success"
+  },
+  {
+    "id": 329,
+    "quote": "Nothing succeeds like success.",
+    "author": "Alexandre Dumas",
+    "category": "Success"
+  },
+  {
+    "id": 330,
+    "quote": "Only those who dare to fail greatly can ever achieve greatly.",
+    "author": "Robert F. Kennedy",
+    "category": "Success"
+  },
+  {
+    "id": 331,
+    "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "author": "Henry David Thoreau",
+    "category": "Life"
+  },
+  {
+    "id": 332,
+    "quote": "Life is a progress, and not a station.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Life"
+  },
+  {
+    "id": 333,
+    "quote": "Life is a flower of which love is the honey.",
+    "author": "Victor Hugo",
+    "category": "Life"
+  },
+  {
+    "id": 334,
+    "quote": "Life is 10% what happens to us and 90% how we react to it.",
+    "author": "Charles R. Swindoll",
+    "category": "Life"
+  },
+  {
+    "id": 335,
+    "quote": "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
+    "author": "Marilyn Monroe",
+    "category": "Life"
+  },
+  {
+    "id": 336,
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "Life"
+  },
+  {
+    "id": 337,
+    "quote": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins",
+    "category": "Life"
+  },
+  {
+    "id": 338,
+    "quote": "May you live all the days of your life.",
+    "author": "Jonathan Swift",
+    "category": "Life"
+  },
+  {
+    "id": 339,
+    "quote": "Life itself is the most wonderful fairy tale.",
+    "author": "Hans Christian Andersen",
+    "category": "Life"
+  },
+  {
+    "id": 340,
+    "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "author": "Buddha",
+    "category": "Life"
+  },
+  {
+    "id": 341,
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln",
+    "category": "Life"
+  },
+  {
+    "id": 342,
+    "quote": "Life is made of ever so many partings welded together.",
+    "author": "Charles Dickens",
+    "category": "Life"
+  },
+  {
+    "id": 343,
+    "quote": "Sing the song that only you can sing, write the book that only you can write, build the product that only you can build.",
+    "author": "Naval Ravikant",
+    "category": "Life"
+  },
+  {
+    "id": 344,
+    "quote": "Life is ours to be spent, not to be saved.",
+    "author": "D. H. Lawrence",
+    "category": "Life"
+  },
+  {
+    "id": 345,
+    "quote": "The secret of life, though, is to fall seven times and to get up eight times.",
+    "author": "Paulo Coelho",
+    "category": "Life"
+  },
+  {
+    "id": 346,
+    "quote": "We shape our dwellings, and afterwards our dwellings shape us.",
+    "author": "Winston Churchill",
+    "category": "Life"
+  },
+  {
+    "id": 347,
+    "quote": "The prime purpose of life is to help others. And if you can't help them, at least don't hurt them.",
+    "author": "Dalai Lama",
+    "category": "Life"
+  },
+  {
+    "id": 348,
+    "quote": "Find ecstasy in life; the mere sense of living is joy enough.",
+    "author": "Emily Dickinson",
+    "category": "Life"
+  },
+  {
+    "id": 349,
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "Life"
+  },
+  {
+    "id": 350,
+    "quote": "Life is too important to be taken seriously.",
+    "author": "Oscar Wilde",
+    "category": "Life"
+  },
+  {
+    "id": 351,
+    "quote": "Life is a succession of lessons which must be lived to be understood.",
+    "author": "Helen Keller",
+    "category": "Life"
+  },
+  {
+    "id": 352,
+    "quote": "Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.",
+    "author": "Sholom Aleichem",
+    "category": "Life"
+  },
+  {
+    "id": 353,
+    "quote": "In the book of life, the answers aren't in the back.",
+    "author": "Charlie Brown",
+    "category": "Life"
+  },
+  {
+    "id": 354,
+    "quote": "The only wealth is life.",
+    "author": "John Ruskin",
+    "category": "Life"
+  },
+  {
+    "id": 355,
+    "quote": "Life is short, art is long.",
+    "author": "Hippocrates",
+    "category": "Life"
+  },
+  {
+    "id": 356,
+    "quote": "We do not remember days, we remember moments.",
+    "author": "Cesare Pavese",
+    "category": "Life"
+  },
+  {
+    "id": 357,
+    "quote": "Life shrinks or expands in proportion to one's courage.",
+    "author": "Anais Nin",
+    "category": "Life"
+  },
+  {
+    "id": 358,
+    "quote": "Be happy for this moment. This moment is your life.",
+    "author": "Omar Khayyam",
+    "category": "Life"
+  },
+  {
+    "id": 359,
+    "quote": "There is no path to happiness: happiness is the path.",
+    "author": "Thich Nhat Hanh",
+    "category": "Life"
+  },
+  {
+    "id": 360,
+    "quote": "Live each day as if your life had just begun.",
+    "author": "Johann Wolfgang von Goethe",
+    "category": "Life"
+  },
+  {
+    "id": 361,
+    "quote": "The art of life is a constant readjustment to our surroundings.",
+    "author": "Kakuzo Okakura",
+    "category": "Life"
+  },
+  {
+    "id": 362,
+    "quote": "Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!",
+    "author": "Sathya Sai Baba",
+    "category": "Life"
+  },
+  {
+    "id": 363,
+    "quote": "Accept life as it is, not as you wish it to be.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 364,
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "author": "Marcus Aurelius",
+    "category": "Life"
+  },
+  {
+    "id": 365,
+    "quote": "Believe that life is worth living and your belief will help create the fact.",
+    "author": "William James",
+    "category": "Life"
+  },
+  {
+    "id": 366,
+    "quote": "Life is not a problem to be solved, but a reality to be experienced.",
+    "author": "Soren Kierkegaard",
+    "category": "Life"
+  },
+  {
+    "id": 367,
+    "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+    "author": "Dr. Seuss",
+    "category": "Life"
+  },
+  {
+    "id": 368,
+    "quote": "The search of a lifetime is to find your true home, which is right here, right now.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 369,
+    "quote": "Do not let the behavior of others destroy your inner peace.",
+    "author": "Dalai Lama",
+    "category": "Life"
+  },
+  {
+    "id": 370,
+    "quote": "Your life is your message to the world. Make sure it's inspiring.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 371,
+    "quote": "Every day is a second chance to live the life you want.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 372,
+    "quote": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius",
+    "category": "Life"
+  },
+  {
+    "id": 373,
+    "quote": "The value of life is not in the length of days, but in the use we make of them.",
+    "author": "Michel de Montaigne",
+    "category": "Life"
+  },
+  {
+    "id": 374,
+    "quote": "Life is a question and how we live it is our answer.",
+    "author": "Gary Keller",
+    "category": "Life"
+  },
+  {
+    "id": 375,
+    "quote": "Fill your life with adventures, not things. Have stories to tell, not stuff to show.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 376,
+    "quote": "Live life to the fullest, and focus on the positive.",
+    "author": "Matt Cameron",
+    "category": "Life"
+  },
+  {
+    "id": 377,
+    "quote": "The purpose of our lives is to add value to the people of this generation.",
+    "author": "Buckminster Fuller",
+    "category": "Life"
+  },
+  {
+    "id": 378,
+    "quote": "Life is a journey that must be traveled no matter how bad the roads.",
+    "author": "Kahlil Gibran",
+    "category": "Life"
+  },
+  {
+    "id": 379,
+    "quote": "The best index of a person's character is how he treats people who can't do him any good.",
+    "author": "Abigail Van Buren",
+    "category": "Life"
+  },
+  {
+    "id": 380,
+    "quote": "Do not go through life, grow through life.",
+    "author": "Eric Butterworth",
+    "category": "Life"
+  },
+  {
+    "id": 381,
+    "quote": "The purpose of life is a life of purpose.",
+    "author": "Robert Byrne",
+    "category": "Life"
+  },
+  {
+    "id": 382,
+    "quote": "Life is a project, not a problem.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 383,
+    "quote": "You change your life by changing your heart.",
+    "author": "Max Lucado",
+    "category": "Life"
+  },
+  {
+    "id": 384,
+    "quote": "Enjoy the little things, for one day you may look back and realize they were the big things.",
+    "author": "Robert Brault",
+    "category": "Life"
+  },
+  {
+    "id": 385,
+    "quote": "Life is not a matter of milestones, but of moments.",
+    "author": "Rose Kennedy",
+    "category": "Life"
+  },
+  {
+    "id": 386,
+    "quote": "Live life as if everything is rigged in your favor.",
+    "author": "Rumi",
+    "category": "Life"
+  },
+  {
+    "id": 387,
+    "quote": "Life is a bold adventure, or it is nothing.",
+    "author": "Helen Keller",
+    "category": "Life"
+  },
+  {
+    "id": 388,
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "Life"
+  },
+  {
+    "id": 389,
+    "quote": "We have two lives, and the second begins when we realize we only have one.",
+    "author": "Confucius",
+    "category": "Life"
+  },
+  {
+    "id": 390,
+    "quote": "If you live for people's acceptance, you will die from their rejection.",
+    "author": "Lecrae",
+    "category": "Life"
+  },
+  {
+    "id": 391,
+    "quote": "The most important thing in life is to learn how to give out love, and to let it come in.",
+    "author": "Morrie Schwartz",
+    "category": "Life"
+  },
+  {
+    "id": 392,
+    "quote": "Life is too short to waste time hating anyone.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 393,
+    "quote": "The secret of life is to appreciate the beauty of each moment.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 394,
+    "quote": "The art of life is to know how to enjoy a little and to endure much.",
+    "author": "William Hazlitt",
+    "category": "Life"
+  },
+  {
+    "id": 395,
+    "quote": "Life is not about waiting for the storm to pass, it's about learning to dance in the rain.",
+    "author": "Vivian Greene",
+    "category": "Life"
+  },
+  {
+    "id": 396,
+    "quote": "Life is the art of drawing without an eraser.",
+    "author": "John W. Gardner",
+    "category": "Life"
+  },
+  {
+    "id": 397,
+    "quote": "To live is so startling it leaves little time for anything else.",
+    "author": "Emily Dickinson",
+    "category": "Life"
+  },
+  {
+    "id": 398,
+    "quote": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+    "author": "Martin Luther King Jr.",
+    "category": "Life"
+  },
+  {
+    "id": 399,
+    "quote": "We make a living by what we get, but we make a life by what we give.",
+    "author": "Winston Churchill",
+    "category": "Life"
+  },
+  {
+    "id": 400,
+    "quote": "Your life is what your thoughts make it.",
+    "author": "Marcus Aurelius",
+    "category": "Life"
+  },
+  {
+    "id": 401,
+    "quote": "Life is a play that does not care how long it lasts, but how well it is played.",
+    "author": "Seneca",
+    "category": "Life"
+  },
+  {
+    "id": 402,
+    "quote": "The secret of life is honesty and fair dealing.",
+    "author": "Groucho Marx",
+    "category": "Life"
+  },
+  {
+    "id": 403,
+    "quote": "Life is short, live it. Love is rare, grab it.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 404,
+    "quote": "Make your life a masterpiece; imagine no limitations.",
+    "author": "Brian Tracy",
+    "category": "Life"
+  },
+  {
+    "id": 405,
+    "quote": "The only way to enjoy life is to be fearless.",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "id": 406,
+    "quote": "My goal was never to just create a company. A lot of people misinterpret that, as if I don't care about revenue or profit. But what not being just a company means to me is building something that actually makes a really big change in the world.",
+    "author": "Mark Zuckerberg",
+    "category": "Business"
+  },
+  {
+    "id": 407,
+    "quote": "If you double the number of experiments you do per year you're going to double your inventiveness.",
+    "author": "Jeff Bezos",
+    "category": "Business"
+  },
+  {
+    "id": 408,
+    "quote": "High expectations are the key to everything.",
+    "author": "Sam Walton",
+    "category": "Business"
+  },
+  {
+    "id": 409,
+    "quote": "To build a great business, build a great team first.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 410,
+    "quote": "The secret to successful hiring is this: look for the people who want to change the world.",
+    "author": "Marc Benioff",
+    "category": "Business"
+  },
+  {
+    "id": 411,
+    "quote": "If you work on stuff that you love and you're passionate about, you don't have to have a master plan with how things will play out.",
+    "author": "Mark Zuckerberg",
+    "category": "Business"
+  },
+  {
+    "id": 412,
+    "quote": "I never dreamed about success. I worked for it.",
+    "author": "Estee Lauder",
+    "category": "Business"
+  },
+  {
+    "id": 413,
+    "quote": "Success is not building a product. Success is building a repeatable, scalable business model around a product.",
+    "author": "Steve Blank",
+    "category": "Business"
+  },
+  {
+    "id": 414,
+    "quote": "Your brand is what other people say about you when you're not in the room.",
+    "author": "Jeff Bezos",
+    "category": "Business"
+  },
+  {
+    "id": 415,
+    "quote": "Build something 100 people love, not something 1 million people kind of like.",
+    "author": "Brian Chesky",
+    "category": "Business"
+  },
+  {
+    "id": 416,
+    "quote": "Do not count the days, make the sales count.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 417,
+    "quote": "Don't deliver a product, deliver an experience.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 418,
+    "quote": "If you don't understand details of your business you are going to fail.",
+    "author": "Jeff Bezos",
+    "category": "Business"
+  },
+  {
+    "id": 419,
+    "quote": "Always deliver more than expected.",
+    "author": "Larry Page",
+    "category": "Business"
+  },
+  {
+    "id": 420,
+    "quote": "A business has to be involving, it has to be fun, and it has to exercise your creative instincts.",
+    "author": "Richard Branson",
+    "category": "Business"
+  },
+  {
+    "id": 421,
+    "quote": "It's fine to celebrate success but it is more important to heed the lessons of failure.",
+    "author": "Bill Gates",
+    "category": "Business"
+  },
+  {
+    "id": 422,
+    "quote": "The golden rule for every business man is this: Put yourself in your customer's place.",
+    "author": "Orison Swett Marden",
+    "category": "Business"
+  },
+  {
+    "id": 423,
+    "quote": "The best customer service is if the customer doesn't need to call you, doesn't need to talk to you. It just works.",
+    "author": "Jeff Bezos",
+    "category": "Business"
+  },
+  {
+    "id": 424,
+    "quote": "We lead by example, not by command.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 425,
+    "quote": "If you can't feed a team with two pizzas, it's too large.",
+    "author": "Jeff Bezos",
+    "category": "Business"
+  },
+  {
+    "id": 426,
+    "quote": "If you're competitor-focused, you have to wait until there is a competitor doing something. Being customer-focused allows you to be more pioneering.",
+    "author": "Jeff Bezos",
+    "category": "Business"
+  },
+  {
+    "id": 427,
+    "quote": "Hire people who are smarter than you.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 428,
+    "quote": "Solve a real problem that you personally experience.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 429,
+    "quote": "Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.",
+    "author": "Mark Zuckerberg",
+    "category": "Business"
+  },
+  {
+    "id": 430,
+    "quote": "If you're not a risk-taker, you should get the hell out of business.",
+    "author": "Ray Kroc",
+    "category": "Business"
+  },
+  {
+    "id": 431,
+    "quote": "Outstanding leaders go out of their way to boost the self-esteem of their personnel.",
+    "author": "Sam Walton",
+    "category": "Business"
+  },
+  {
+    "id": 432,
+    "quote": "Do what you do so well that they will want to see it again and bring their friends.",
+    "author": "Walt Disney",
+    "category": "Business"
+  },
+  {
+    "id": 433,
+    "quote": "Make your team feel like owners, not employees.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 434,
+    "quote": "Customer focus should be a value, not just a department.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 435,
+    "quote": "In business, you only realize who's swimming naked when the tide goes out.",
+    "author": "Warren Buffett",
+    "category": "Business"
+  },
+  {
+    "id": 436,
+    "quote": "A satisfied customer is the best business strategy of all.",
+    "author": "Michael LeBoeuf",
+    "category": "Business"
+  },
+  {
+    "id": 437,
+    "quote": "The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency.",
+    "author": "Bill Gates",
+    "category": "Business"
+  },
+  {
+    "id": 438,
+    "quote": "There's no shortage of remarkable ideas, what's missing is the will to execute them.",
+    "author": "Seth Godin",
+    "category": "Business"
+  },
+  {
+    "id": 439,
+    "quote": "If you're passionate about something and you work hard, then I think you will be successful.",
+    "author": "Pierre Omidyar",
+    "category": "Business"
+  },
+  {
+    "id": 440,
+    "quote": "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.",
+    "author": "Steve Jobs",
+    "category": "Business"
+  },
+  {
+    "id": 441,
+    "quote": "Scale is the result of executing a proven strategy, not a strategy itself.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 442,
+    "quote": "Great things in business are never done by one person; they're done by a team of people.",
+    "author": "Steve Jobs",
+    "category": "Business"
+  },
+  {
+    "id": 443,
+    "quote": "Don't find a fault, find a remedy.",
+    "author": "Henry Ford",
+    "category": "Business"
+  },
+  {
+    "id": 444,
+    "quote": "Every business is built on trust. Lose trust, lose the business.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 445,
+    "quote": "The best way to build a great brand is to make sure your customers are happy.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 446,
+    "quote": "An organization is only as good as the promises it keeps.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 447,
+    "quote": "The business of business is to make the world a better place.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 448,
+    "quote": "Think big, start small, grow fast.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 449,
+    "quote": "A business is simply an idea to make other people's lives better.",
+    "author": "Richard Branson",
+    "category": "Business"
+  },
+  {
+    "id": 450,
+    "quote": "The biggest risk is not taking any risk.",
+    "author": "Mark Zuckerberg",
+    "category": "Business"
+  },
+  {
+    "id": 451,
+    "quote": "Innovation is the ability to see change as an opportunity - not a threat.",
+    "author": "Steve Jobs",
+    "category": "Business"
+  },
+  {
+    "id": 452,
+    "quote": "Quality is the best business plan.",
+    "author": "John Lasseter",
+    "category": "Business"
+  },
+  {
+    "id": 453,
+    "quote": "You don't build a business, you build people, then people build the business.",
+    "author": "Zig Ziglar",
+    "category": "Business"
+  },
+  {
+    "id": 454,
+    "quote": "The competitor to be feared is one who never bothers about you at all.",
+    "author": "Henry Ford",
+    "category": "Business"
+  },
+  {
+    "id": 455,
+    "quote": "Success is not just about making money. It's about making a difference.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 456,
+    "quote": "Your business is a reflection of your leadership.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 457,
+    "quote": "Failure is not the opposite of success; it's part of success.",
+    "author": "Arianna Huffington",
+    "category": "Business"
+  },
+  {
+    "id": 458,
+    "quote": "The best marketing of all is happy customers.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 459,
+    "quote": "A brand is no longer what we tell the consumer it is - it is what consumers tell each other it is.",
+    "author": "Scott Cook",
+    "category": "Business"
+  },
+  {
+    "id": 460,
+    "quote": "Your value is determined by the problems you solve.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 461,
+    "quote": "Business is a game of passion, persistence, and execution.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 462,
+    "quote": "If you don't build your dream, someone else will hire you to build theirs.",
+    "author": "Dhirubhai Ambani",
+    "category": "Business"
+  },
+  {
+    "id": 463,
+    "quote": "Profit in business comes from repeat customers.",
+    "author": "W. Edwards Deming",
+    "category": "Business"
+  },
+  {
+    "id": 464,
+    "quote": "You must capture the heart of the customer before they give you their wallet.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 465,
+    "quote": "Good business leaders create a vision, articulate the vision, and passionately own it.",
+    "author": "Jack Welch",
+    "category": "Business"
+  },
+  {
+    "id": 466,
+    "quote": "Focus on being productive instead of busy.",
+    "author": "Tim Ferriss",
+    "category": "Business"
+  },
+  {
+    "id": 467,
+    "quote": "There is no finish line in business. Only new horizons.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 468,
+    "quote": "Great execution beats great strategy every time.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 469,
+    "quote": "Build your own dreams, or someone else will hire you to build theirs.",
+    "author": "Farrah Gray",
+    "category": "Business"
+  },
+  {
+    "id": 470,
+    "quote": "Business is all about solving people's problems at a profit.",
+    "author": "Unknown",
+    "category": "Business"
+  },
+  {
+    "id": 471,
+    "quote": "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.",
+    "author": "Albert Einstein",
+    "category": "Study"
+  },
+  {
+    "id": 472,
+    "quote": "The mind is not a vessel to be filled, but a fire to be kindled.",
+    "author": "Plutarch",
+    "category": "Study"
+  },
+  {
+    "id": 473,
+    "quote": "If you think education is expensive, try ignorance.",
+    "author": "Derek Bok",
+    "category": "Study"
+  },
+  {
+    "id": 474,
+    "quote": "The root of education are bitter, but the fruit is sweet.",
+    "author": "Aristotle",
+    "category": "Study"
+  },
+  {
+    "id": 475,
+    "quote": "Teachers open the door, but you must enter by yourself.",
+    "author": "Chinese Proverb",
+    "category": "Study"
+  },
+  {
+    "id": 476,
+    "quote": "Learning is not child's play; we cannot learn without pain.",
+    "author": "Aristotle",
+    "category": "Study"
+  },
+  {
+    "id": 477,
+    "quote": "I am still learning.",
+    "author": "Michelangelo",
+    "category": "Study"
+  },
+  {
+    "id": 478,
+    "quote": "The more I learn, the more I realize how much I don't know.",
+    "author": "Albert Einstein",
+    "category": "Study"
+  },
+  {
+    "id": 479,
+    "quote": "All things are difficult before they are easy.",
+    "author": "Thomas Fuller",
+    "category": "Study"
+  },
+  {
+    "id": 480,
+    "quote": "Real learning comes when the competitive spirit has ceased.",
+    "author": "Jiddu Krishnamurti",
+    "category": "Study"
+  },
+  {
+    "id": 481,
+    "quote": "He who opens a school door, closes a prison.",
+    "author": "Victor Hugo",
+    "category": "Study"
+  },
+  {
+    "id": 482,
+    "quote": "The authority of those who teach is often an obstacle to those who want to learn.",
+    "author": "Marcus Tullius Cicero",
+    "category": "Study"
+  },
+  {
+    "id": 483,
+    "quote": "Curiosity is the wick in the candle of learning.",
+    "author": "William Arthur Ward",
+    "category": "Study"
+  },
+  {
+    "id": 484,
+    "quote": "You learn something every day if you pay attention.",
+    "author": "Ray LeBlond",
+    "category": "Study"
+  },
+  {
+    "id": 485,
+    "quote": "You are always a student, never a master. You have to keep moving forward.",
+    "author": "Conrad Hall",
+    "category": "Study"
+  },
+  {
+    "id": 486,
+    "quote": "Knowledge is power.",
+    "author": "Francis Bacon",
+    "category": "Study"
+  },
+  {
+    "id": 487,
+    "quote": "A well-educated mind will always have more questions than answers.",
+    "author": "Helen Keller",
+    "category": "Study"
+  },
+  {
+    "id": 488,
+    "quote": "To study and not think is a waste. To think and not study is dangerous.",
+    "author": "Confucius",
+    "category": "Study"
+  },
+  {
+    "id": 489,
+    "quote": "Preparation is the key to good results.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 490,
+    "quote": "The direction in which education starts a man will determine his future in life.",
+    "author": "Plato",
+    "category": "Study"
+  },
+  {
+    "id": 491,
+    "quote": "Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers.",
+    "author": "Charles W. Eliot",
+    "category": "Study"
+  },
+  {
+    "id": 492,
+    "quote": "Knowledge is a treasure, but practice is the key to it.",
+    "author": "Lao Tzu",
+    "category": "Study"
+  },
+  {
+    "id": 493,
+    "quote": "An hour of focus is worth ten hours of distraction.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 494,
+    "quote": "The goal of education is the advancement of knowledge and the dissemination of truth.",
+    "author": "John F. Kennedy",
+    "category": "Study"
+  },
+  {
+    "id": 495,
+    "quote": "Focus on the process of learning, not just the test score.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 496,
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison",
+    "category": "Study"
+  },
+  {
+    "id": 497,
+    "quote": "Learn everything you can, anytime you can, from anyone you can; there will always come a time when you will be grateful you did.",
+    "author": "Sarah Caldwell",
+    "category": "Study"
+  },
+  {
+    "id": 498,
+    "quote": "There is no substitute for hard work.",
+    "author": "Thomas Edison",
+    "category": "Study"
+  },
+  {
+    "id": 499,
+    "quote": "Quality is not an act, it is a habit.",
+    "author": "Aristotle",
+    "category": "Study"
+  },
+  {
+    "id": 500,
+    "quote": "Education is not preparation for life; education is life itself.",
+    "author": "John Dewey",
+    "category": "Study"
+  },
+  {
+    "id": 501,
+    "quote": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "category": "Study"
+  },
+  {
+    "id": 502,
+    "quote": "Wisdom begins in wonder.",
+    "author": "Socrates",
+    "category": "Study"
+  },
+  {
+    "id": 503,
+    "quote": "Do the best you can until you know better. Then when you know better, do better.",
+    "author": "Maya Angelou",
+    "category": "Study"
+  },
+  {
+    "id": 504,
+    "quote": "Consistency in study is the secret of academic success.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 505,
+    "quote": "A mind is a fire to be kindled, not a vessel to be filled.",
+    "author": "Plutarch",
+    "category": "Study"
+  },
+  {
+    "id": 506,
+    "quote": "The roots of education are bitter, but the fruit is sweet.",
+    "author": "Aristotle",
+    "category": "Study"
+  },
+  {
+    "id": 507,
+    "quote": "Learn to listen; opportunity sometimes knocks very softly.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 508,
+    "quote": "Education is what remains after one has forgotten what one has learned in school.",
+    "author": "Albert Einstein",
+    "category": "Study"
+  },
+  {
+    "id": 509,
+    "quote": "There is no such thing as a bad question, only a bad answer.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 510,
+    "quote": "Knowledge belongs to humanity, and is the torch which illuminates the world.",
+    "author": "Louis Pasteur",
+    "category": "Study"
+  },
+  {
+    "id": 511,
+    "quote": "It is not the quantity but the quality of study that matters.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 512,
+    "quote": "The learning process is a journey, not a destination.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 513,
+    "quote": "Studying is the bridge between ignorance and enlightenment.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 514,
+    "quote": "A book is like a garden carried in the pocket.",
+    "author": "Chinese Proverb",
+    "category": "Study"
+  },
+  {
+    "id": 515,
+    "quote": "Learning is a treasure that will follow its owner everywhere.",
+    "author": "Chinese Proverb",
+    "category": "Study"
+  },
+  {
+    "id": 516,
+    "quote": "Knowledge is a weapon, study is the training.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 517,
+    "quote": "There are no shortcuts to any place worth going.",
+    "author": "Beverly Sills",
+    "category": "Study"
+  },
+  {
+    "id": 518,
+    "quote": "He who asks a question is a fool for five minutes; he who does not ask a question remains a fool forever.",
+    "author": "Chinese Proverb",
+    "category": "Study"
+  },
+  {
+    "id": 519,
+    "quote": "Study without desire spoils the memory.",
+    "author": "Leonardo da Vinci",
+    "category": "Study"
+  },
+  {
+    "id": 520,
+    "quote": "You don't study to pass; you study to understand.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 521,
+    "quote": "Consistency in study leads to mastery in life.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 522,
+    "quote": "Real learning occurs when we are curious.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 523,
+    "quote": "The more I read, the more I acquire, the more certain I am that I know nothing.",
+    "author": "Voltaire",
+    "category": "Study"
+  },
+  {
+    "id": 524,
+    "quote": "Education is not the learning of facts, but the training of the mind to think.",
+    "author": "Albert Einstein",
+    "category": "Study"
+  },
+  {
+    "id": 525,
+    "quote": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
+    "author": "Mortimer Adler",
+    "category": "Study"
+  },
+  {
+    "id": 526,
+    "quote": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.",
+    "author": "Pele",
+    "category": "Study"
+  },
+  {
+    "id": 527,
+    "quote": "Strive for excellence, not perfection. Learning is a continuous process.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 528,
+    "quote": "He who has not studied is like a blind man in a dark room.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 529,
+    "quote": "Knowledge is the only treasure that increases when shared.",
+    "author": "Unknown",
+    "category": "Study"
+  },
+  {
+    "id": 530,
+    "quote": "No workout is wasted; even a bad session builds discipline.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 531,
+    "quote": "Your health is an investment, not an expense.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 532,
+    "quote": "The difference between who you are and who you want to be is what you do.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 533,
+    "quote": "A one-hour workout is 4% of your day. No excuses.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 534,
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi",
+    "category": "Fitness"
+  },
+  {
+    "id": 535,
+    "quote": "The clock is ticking. Are you becoming the person you want to be?",
+    "author": "Greg Plitt",
+    "category": "Fitness"
+  },
+  {
+    "id": 536,
+    "quote": "If you want something you've never had, you must be willing to do something you've never done.",
+    "author": "Thomas Jefferson",
+    "category": "Fitness"
+  },
+  {
+    "id": 537,
+    "quote": "Your body is the instrument, not the ornament.",
+    "author": "Alan Cohen",
+    "category": "Fitness"
+  },
+  {
+    "id": 538,
+    "quote": "The pain you feel today will be the strength you feel tomorrow.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 539,
+    "quote": "It never gets easier, you just get better.",
+    "author": "Greg LeMond",
+    "category": "Fitness"
+  },
+  {
+    "id": 540,
+    "quote": "Get comfortable with being uncomfortable.",
+    "author": "Jillian Michaels",
+    "category": "Fitness"
+  },
+  {
+    "id": 541,
+    "quote": "Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend.",
+    "author": "Lao Tzu",
+    "category": "Fitness"
+  },
+  {
+    "id": 542,
+    "quote": "Make fitness a habit, not a chore.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 543,
+    "quote": "You are one workout away from a good mood.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 544,
+    "quote": "Train like an athlete, eat like a nutritionist, sleep like a baby, win like a champion.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 545,
+    "quote": "Do something today that your future self will thank you for.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 546,
+    "quote": "Fitness is like marriage: you can't cheat on it and expect it to work.",
+    "author": "Bonnie Pfiester",
+    "category": "Fitness"
+  },
+  {
+    "id": 547,
+    "quote": "Rest when you are tired, but never quit.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 548,
+    "quote": "Work hard in silence, let your success be your noise.",
+    "author": "Frank Ocean",
+    "category": "Fitness"
+  },
+  {
+    "id": 549,
+    "quote": "If you change the way you look at things, the things you look at change.",
+    "author": "Wayne Dyer",
+    "category": "Fitness"
+  },
+  {
+    "id": 550,
+    "quote": "An active body creates an active mind.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 551,
+    "quote": "Consistency beats intensity every single time.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 552,
+    "quote": "When you feel like quitting, think about why you started.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 553,
+    "quote": "Progress is slow, but quitting won't speed it up.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 554,
+    "quote": "Sweat is fat crying.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 555,
+    "quote": "Your body achieves what your mind conceives.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 556,
+    "quote": "Your health is your wealth.",
+    "author": "Proverb",
+    "category": "Fitness"
+  },
+  {
+    "id": 557,
+    "quote": "Every workout count, even the ones where you just showed up.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 558,
+    "quote": "Fitness is a journey, not a destination.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 559,
+    "quote": "Your body is a temple, keep it clean and strong.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 560,
+    "quote": "Don't stop when you are tired, stop when you are done.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 561,
+    "quote": "The hardest step is the one out the door.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 562,
+    "quote": "Better yourself, body and mind.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 563,
+    "quote": "Health is the first duty of a human being.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 564,
+    "quote": "Keep moving, keep growing, keep shining.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 565,
+    "quote": "A strong body creates a resilient mind.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 566,
+    "quote": "Physical fitness is the first requisite of happiness.",
+    "author": "Joseph Pilates",
+    "category": "Fitness"
+  },
+  {
+    "id": 567,
+    "quote": "Take care of your health today, so it takes care of you tomorrow.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 568,
+    "quote": "A healthy body is a guest-chamber for the soul.",
+    "author": "Francis Bacon",
+    "category": "Fitness"
+  },
+  {
+    "id": 569,
+    "quote": "Fitness is the best therapy.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 570,
+    "quote": "Eat clean, train hard, live well.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 571,
+    "quote": "Your body is your lifelong home. Maintain it.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 572,
+    "quote": "Train dirty, eat clean.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 573,
+    "quote": "The hardest lift of all is lifting your butt off the couch.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 574,
+    "quote": "Fitness is not about being thin, it's about being strong.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 575,
+    "quote": "The body is the servant of the mind.",
+    "author": "James Allen",
+    "category": "Fitness"
+  },
+  {
+    "id": 576,
+    "quote": "Take care of your body; it is your only permanent home.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 577,
+    "quote": "You don't have to be perfect to be amazing.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 578,
+    "quote": "A healthy body leads to a peaceful mind.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 579,
+    "quote": "A dynamic lifestyle is a healthy lifestyle.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 580,
+    "quote": "Success is the result of continuous physical and mental effort.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 581,
+    "quote": "No effort is ever lost in the pursuit of fitness.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 582,
+    "quote": "A workout is a celebration of what your body can do.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 583,
+    "quote": "Focus on the feeling of strength, not the scale.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 584,
+    "quote": "Exercise is a blessing, not a punishment.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 585,
+    "quote": "Train like a warrior, sleep like a child.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 586,
+    "quote": "Resilience is built in the gym and in the mind.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 587,
+    "quote": "Your body is the temple of your spirit. Keep it clean.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 588,
+    "quote": "Better physical health means better mental clarity.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 589,
+    "quote": "Commit to your health, it is your greatest wealth.",
+    "author": "Unknown",
+    "category": "Fitness"
+  },
+  {
+    "id": 590,
+    "quote": "Love cure people - both the ones who give it and the ones who receive it.",
+    "author": "Karl Menninger",
+    "category": "Love"
+  },
+  {
+    "id": 591,
+    "quote": "The heart has its reasons which reason knows nothing of.",
+    "author": "Blaise Pascal",
+    "category": "Love"
+  },
+  {
+    "id": 592,
+    "quote": "You are my heart, my life, my one and only thought.",
+    "author": "Arthur Conan Doyle",
+    "category": "Love"
+  },
+  {
+    "id": 593,
+    "quote": "We love because it's the only true adventure.",
+    "author": "Nikki Giovanni",
+    "category": "Love"
+  },
+  {
+    "id": 594,
+    "quote": "Love is a friendship set to music.",
+    "author": "Joseph Campbell",
+    "category": "Love"
+  },
+  {
+    "id": 595,
+    "quote": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+    "author": "Lao Tzu",
+    "category": "Love"
+  },
+  {
+    "id": 596,
+    "quote": "Love is when the other person's happiness is more important than your own.",
+    "author": "H. Jackson Brown Jr.",
+    "category": "Love"
+  },
+  {
+    "id": 597,
+    "quote": "A successful marriage requires falling in love many times, always with the same person.",
+    "author": "Mignon McLaughlin",
+    "category": "Love"
+  },
+  {
+    "id": 598,
+    "quote": "True love stories never have endings.",
+    "author": "Richard Bach",
+    "category": "Love"
+  },
+  {
+    "id": 599,
+    "quote": "Love is the flower; you've got to let it grow.",
+    "author": "John Lennon",
+    "category": "Love"
+  },
+  {
+    "id": 600,
+    "quote": "The water shines only by the sun. And it is you who are my sun.",
+    "author": "Charles de Leusse",
+    "category": "Love"
+  },
+  {
+    "id": 601,
+    "quote": "All you need is love. But a little chocolate now and then doesn't hurt.",
+    "author": "Charles M. Schulz",
+    "category": "Love"
+  },
+  {
+    "id": 602,
+    "quote": "Love is like the wind, you can't see it but you can feel it.",
+    "author": "Nicholas Sparks",
+    "category": "Love"
+  },
+  {
+    "id": 603,
+    "quote": "To love is to burn, to be on fire.",
+    "author": "Jane Austen",
+    "category": "Love"
+  },
+  {
+    "id": 604,
+    "quote": "Love is the beauty of the soul.",
+    "author": "Saint Augustine",
+    "category": "Love"
+  },
+  {
+    "id": 605,
+    "quote": "If I know what love is, it is because of you.",
+    "author": "Hermann Hesse",
+    "category": "Love"
+  },
+  {
+    "id": 606,
+    "quote": "We are born of love; love is our mother.",
+    "author": "Rumi",
+    "category": "Love"
+  },
+  {
+    "id": 607,
+    "quote": "There is no remedy for love but to love more.",
+    "author": "Henry David Thoreau",
+    "category": "Love"
+  },
+  {
+    "id": 608,
+    "quote": "True love is quiet, except in the heart.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 609,
+    "quote": "If you want to be loved, love.",
+    "author": "Seneca",
+    "category": "Love"
+  },
+  {
+    "id": 610,
+    "quote": "Love is absolute loyalty. People fade, looks fade, but loyalty never fades.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 611,
+    "quote": "To love and be loved is the greatest gift of life.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 612,
+    "quote": "Love makes your soul crawl out from its hiding place.",
+    "author": "Zora Neale Hurston",
+    "category": "Love"
+  },
+  {
+    "id": 613,
+    "quote": "The best proof of love is trust.",
+    "author": "Joyce Brothers",
+    "category": "Love"
+  },
+  {
+    "id": 614,
+    "quote": "In the arithmetic of love, one plus one equals everything, and two minus one equals nothing.",
+    "author": "Mignon McLaughlin",
+    "category": "Love"
+  },
+  {
+    "id": 615,
+    "quote": "Love is a smoke made with the fume of sighs.",
+    "author": "William Shakespeare",
+    "category": "Love"
+  },
+  {
+    "id": 616,
+    "quote": "True love is selfless. It is prepared to sacrifice.",
+    "author": "Sadhu Vaswani",
+    "category": "Love"
+  },
+  {
+    "id": 617,
+    "quote": "Where there is love, there is no room for fear.",
+    "author": "Proverb",
+    "category": "Love"
+  },
+  {
+    "id": 618,
+    "quote": "Love does not dominate; it cultivates.",
+    "author": "Johann Wolfgang von Goethe",
+    "category": "Love"
+  },
+  {
+    "id": 619,
+    "quote": "To love is to find your own happiness in the happiness of another.",
+    "author": "Gottfried Wilhelm Leibniz",
+    "category": "Love"
+  },
+  {
+    "id": 620,
+    "quote": "To love oneself is the beginning of a lifelong romance.",
+    "author": "Oscar Wilde",
+    "category": "Love"
+  },
+  {
+    "id": 621,
+    "quote": "Love is an acts of endless forgiveness.",
+    "author": "Jean-Paul Sartre",
+    "category": "Love"
+  },
+  {
+    "id": 622,
+    "quote": "A loving heart is the truest wisdom.",
+    "author": "Charles Dickens",
+    "category": "Love"
+  },
+  {
+    "id": 623,
+    "quote": "We are most alive when we're in love.",
+    "author": "John Updike",
+    "category": "Love"
+  },
+  {
+    "id": 624,
+    "quote": "Love is the master key that opens the gates of happiness.",
+    "author": "Oliver Wendell Holmes",
+    "category": "Love"
+  },
+  {
+    "id": 625,
+    "quote": "Immature love says: 'I love you because I need you.' Mature love says: 'I need you because I love you.'",
+    "author": "Erich Fromm",
+    "category": "Love"
+  },
+  {
+    "id": 626,
+    "quote": "Love isn't something you find. Love is something that finds you.",
+    "author": "Loretta Young",
+    "category": "Love"
+  },
+  {
+    "id": 627,
+    "quote": "Love is a game that two can play and both win.",
+    "author": "Eva Gabor",
+    "category": "Love"
+  },
+  {
+    "id": 628,
+    "quote": "Love is the greatest refreshment in life.",
+    "author": "Pablo Picasso",
+    "category": "Love"
+  },
+  {
+    "id": 629,
+    "quote": "Love is a force more formidable than any other.",
+    "author": "Euripides",
+    "category": "Love"
+  },
+  {
+    "id": 630,
+    "quote": "True love is not how you forgive, but how you forget.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 631,
+    "quote": "Love is the ultimate truth at the heart of the universe.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 632,
+    "quote": "To love is to see ourselves in the other.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 633,
+    "quote": "True love remains forever, even in silence.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 634,
+    "quote": "The heart has reasons that the mind can never comprehend.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 635,
+    "quote": "To love is to share the journey of life together.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 636,
+    "quote": "Love is the bridge between two hearts.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 637,
+    "quote": "True love shines brightest in the dark.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 638,
+    "quote": "A life without love is like a year without summer.",
+    "author": "Swedish Proverb",
+    "category": "Love"
+  },
+  {
+    "id": 639,
+    "quote": "Love is the poetry of the senses.",
+    "author": "Honore de Balzac",
+    "category": "Love"
+  },
+  {
+    "id": 640,
+    "quote": "Where there is love, there is no fear.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 641,
+    "quote": "Love is the key that unlocks the door to happiness.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 642,
+    "quote": "To love is to find yourself in another.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 643,
+    "quote": "The greatest force in the universe is love.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 644,
+    "quote": "A heart that loves is always young.",
+    "author": "Greek Proverb",
+    "category": "Love"
+  },
+  {
+    "id": 645,
+    "quote": "Love is the light that illuminates our lives.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 646,
+    "quote": "Love is a bridge between two souls.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 647,
+    "quote": "In love, we find our true strength.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 648,
+    "quote": "A life without love is like a garden without sun.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 649,
+    "quote": "Love is not what the mind thinks, but what the heart feels.",
+    "author": "Unknown",
+    "category": "Love"
+  },
+  {
+    "id": 650,
+    "quote": "The only way to avoid being miserable is not to have enough leisure to wonder whether you are happy or not.",
+    "author": "George Bernard Shaw",
+    "category": "Happiness"
+  },
+  {
+    "id": 651,
+    "quote": "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Happiness"
+  },
+  {
+    "id": 652,
+    "quote": "The secret of happiness is freedom, the secret of freedom is courage.",
+    "author": "Carrie Jones",
+    "category": "Happiness"
+  },
+  {
+    "id": 653,
+    "quote": "Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.",
+    "author": "Ralph Marston",
+    "category": "Happiness"
+  },
+  {
+    "id": 654,
+    "quote": "The art of being happy lies in the power of extracting happiness from common things.",
+    "author": "Henry Ward Beecher",
+    "category": "Happiness"
+  },
+  {
+    "id": 655,
+    "quote": "Happiness is the default state of human beings when they're not desiring or fearing things.",
+    "author": "Naval Ravikant",
+    "category": "Happiness"
+  },
+  {
+    "id": 656,
+    "quote": "Count your age by friends, not years. Count your life by smiles, not tears.",
+    "author": "John Lennon",
+    "category": "Happiness"
+  },
+  {
+    "id": 657,
+    "quote": "True happiness is of a retired nature, and an enemy to pomp and noise.",
+    "author": "Joseph Addison",
+    "category": "Happiness"
+  },
+  {
+    "id": 658,
+    "quote": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "id": 659,
+    "quote": "Happiness is a direction, not a place.",
+    "author": "Sydney J. Harris",
+    "category": "Happiness"
+  },
+  {
+    "id": 660,
+    "quote": "We tend to forget that happiness doesn't come as a result of getting something we don't have, but rather of recognizing and appreciating what we do have.",
+    "author": "Frederick Keonig",
+    "category": "Happiness"
+  },
+  {
+    "id": 661,
+    "quote": "Success is getting what you want. Happiness is wanting what you get.",
+    "author": "Dale Carnegie",
+    "category": "Happiness"
+  },
+  {
+    "id": 662,
+    "quote": "Happiness consists more in small conveniences of occurrences that happen every day, than in great pieces of good fortune that happen but seldom.",
+    "author": "Benjamin Franklin",
+    "category": "Happiness"
+  },
+  {
+    "id": 663,
+    "quote": "The optimum value of human life is happiness.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 664,
+    "quote": "Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which, if you will sit down quietly, may alight upon you.",
+    "author": "Nathaniel Hawthorne",
+    "category": "Happiness"
+  },
+  {
+    "id": 665,
+    "quote": "Whoever is happy will make others happy too.",
+    "author": "Anne Frank",
+    "category": "Happiness"
+  },
+  {
+    "id": 666,
+    "quote": "Happiness is not having what you want. It is wanting what you have.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 667,
+    "quote": "The secret of happiness is not in doing what one likes, but in liking what one does.",
+    "author": "James M. Barrie",
+    "category": "Happiness"
+  },
+  {
+    "id": 668,
+    "quote": "A quiet seclusion in the country, with the possibility of being useful to people to whom it is easy to do good, and who are not accustomed to have it done to them; then work which one hopes may be of some use; then rest, nature, books, music, love for one's neighbor - such is my idea of happiness.",
+    "author": "Leo Tolstoy",
+    "category": "Happiness"
+  },
+  {
+    "id": 669,
+    "quote": "Some cause happiness wherever they go; others whenever they go.",
+    "author": "Oscar Wilde",
+    "category": "Happiness"
+  },
+  {
+    "id": 670,
+    "quote": "The only happiness in this life is to love and be loved.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 671,
+    "quote": "To be happy, we must not be too concerned with others.",
+    "author": "Albert Camus",
+    "category": "Happiness"
+  },
+  {
+    "id": 672,
+    "quote": "Happiness is a form of courage.",
+    "author": "Holbrook Jackson",
+    "category": "Happiness"
+  },
+  {
+    "id": 673,
+    "quote": "Happiness is a state of activity.",
+    "author": "Aristotle",
+    "category": "Happiness"
+  },
+  {
+    "id": 674,
+    "quote": "The search of happiness is one of the chief sources of unhappiness.",
+    "author": "Eric Hoffer",
+    "category": "Happiness"
+  },
+  {
+    "id": 675,
+    "quote": "Happiness is a quiet mind.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 676,
+    "quote": "Happiness is not an ideal of reason, but of imagination.",
+    "author": "Immanuel Kant",
+    "category": "Happiness"
+  },
+  {
+    "id": 677,
+    "quote": "We don't laugh because we're happy - we're happy because we laugh.",
+    "author": "William James",
+    "category": "Happiness"
+  },
+  {
+    "id": 678,
+    "quote": "Happiness is the expansion of consciousness.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 679,
+    "quote": "Be happy. It's one way of being wise.",
+    "author": "Colette",
+    "category": "Happiness"
+  },
+  {
+    "id": 680,
+    "quote": "Joy is what happens to us when we allow ourselves to recognize how good things really are.",
+    "author": "Marianne Williamson",
+    "category": "Happiness"
+  },
+  {
+    "id": 681,
+    "quote": "Happiness is nothing more than good health and a bad memory.",
+    "author": "Albert Schweitzer",
+    "category": "Happiness"
+  },
+  {
+    "id": 682,
+    "quote": "The happiest life is that which constantly exercises and educates what is best in us.",
+    "author": "Hamerton",
+    "category": "Happiness"
+  },
+  {
+    "id": 683,
+    "quote": "Happiness is like a kiss. You must share it to enjoy it.",
+    "author": "Bernard Meltzer",
+    "category": "Happiness"
+  },
+  {
+    "id": 684,
+    "quote": "Make someone happy, then you will be happy too.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 685,
+    "quote": "The best way to cheer yourself up is to try to cheer somebody else up.",
+    "author": "Mark Twain",
+    "category": "Happiness"
+  },
+  {
+    "id": 686,
+    "quote": "Happiness grows at our own firesides, and is not to be picked in strangers' gardens.",
+    "author": "Douglas Jerrold",
+    "category": "Happiness"
+  },
+  {
+    "id": 687,
+    "quote": "Count your blessings. That is the first step to happiness.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 688,
+    "quote": "Happiness is the reward of an honest, purposeful life.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 689,
+    "quote": "True happiness is found in simplicity.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 690,
+    "quote": "Joy is the simplest form of gratitude.",
+    "author": "Karl Barth",
+    "category": "Happiness"
+  },
+  {
+    "id": 691,
+    "quote": "Let joy be your guide in everything you do.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 692,
+    "quote": "Happiness is not about getting all you want, but enjoying all you have.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 693,
+    "quote": "The smile on your face is the reflection of your happy heart.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 694,
+    "quote": "Happiness is when your heart speaks and your mind agrees.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 695,
+    "quote": "A happy life is a collection of happy moments.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 696,
+    "quote": "Happiness is a state of mind, not a state of pocket.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 697,
+    "quote": "The secret of happiness is to seek it in the simple things.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 698,
+    "quote": "A happy heart is a healthy heart.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 699,
+    "quote": "Happiness is the goal of all human action.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 700,
+    "quote": "Count your smiles instead of your tears.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 701,
+    "quote": "Let joy be your guide in life.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 702,
+    "quote": "Happiness is sharing the good times with others.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 703,
+    "quote": "To be happy, you must choose to be happy.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 704,
+    "quote": "Happiness grows from gratitude.",
+    "author": "Unknown",
+    "category": "Happiness"
+  },
+  {
+    "id": 705,
+    "quote": "Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all.",
+    "author": "George Washington",
+    "category": "Discipline"
+  },
+  {
+    "id": 706,
+    "quote": "Without discipline, there is no life at all.",
+    "author": "Katharine Hepburn",
+    "category": "Discipline"
+  },
+  {
+    "id": 707,
+    "quote": "We must all suffer one of two things: the pain of discipline or the pain of regret or disappointment.",
+    "author": "Jim Rohn",
+    "category": "Discipline"
+  },
+  {
+    "id": 708,
+    "quote": "Rule your mind or it will rule you.",
+    "author": "Horace",
+    "category": "Discipline"
+  },
+  {
+    "id": 709,
+    "quote": "Self-command is the main elegance.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Discipline"
+  },
+  {
+    "id": 710,
+    "quote": "The first and best victory is to conquer self.",
+    "author": "Plato",
+    "category": "Discipline"
+  },
+  {
+    "id": 711,
+    "quote": "No career analysis can substitute for self-discipline.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 712,
+    "quote": "A discipline of daily execution leads to extraordinary quality.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 713,
+    "quote": "In reading lives of great men, I found that the first victory they won was over themselves... self-discipline with all of them came first.",
+    "author": "Harry S. Truman",
+    "category": "Discipline"
+  },
+  {
+    "id": 714,
+    "quote": "Discipline is not restriction, it is freedom. It is the ability to do what is best for yourself.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 715,
+    "quote": "One discipline always leads to another.",
+    "author": "Jim Rohn",
+    "category": "Discipline"
+  },
+  {
+    "id": 716,
+    "quote": "The only discipline that lasts is self-discipline.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 717,
+    "quote": "Consistency of effort is the essence of discipline.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 718,
+    "quote": "He who conquers himself is the mightiest warrior.",
+    "author": "Confucius",
+    "category": "Discipline"
+  },
+  {
+    "id": 719,
+    "quote": "Discipline is the foundation on which all success is built.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 720,
+    "quote": "Great writers have a discipline of regular writing, whether inspired or not.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 721,
+    "quote": "To master the day, master the morning.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 722,
+    "quote": "The pain of discipline is temporary, but the rewards are permanent.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 723,
+    "quote": "If you want to be a master, you must be a disciple of your own discipline.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 724,
+    "quote": "Self-discipline is when your conscience tells you to do something and you don't talk back.",
+    "author": "W. K. Hope",
+    "category": "Discipline"
+  },
+  {
+    "id": 725,
+    "quote": "Discipline turns talent into ability.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 726,
+    "quote": "He who has self-control is stronger than he who takes a city.",
+    "author": "Proverb",
+    "category": "Discipline"
+  },
+  {
+    "id": 727,
+    "quote": "Nothing is more harmful to service than a lack of discipline.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 728,
+    "quote": "Keep doing the hard things until they become easy.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 729,
+    "quote": "Work hard, stay disciplined, and be patient.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 730,
+    "quote": "Self-discipline is that quiet power that makes you do what needs to be done.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 731,
+    "quote": "It is not the mountains ahead to climb that wear you out; it's the pebble in your shoe.",
+    "author": "Muhammad Ali",
+    "category": "Discipline"
+  },
+  {
+    "id": 732,
+    "quote": "A habit is a cable; we weave a thread of it each day, and at last we cannot break it.",
+    "author": "Horace Mann",
+    "category": "Discipline"
+  },
+  {
+    "id": 733,
+    "quote": "Seek freedom and become captive of your desires. Seek discipline and find your liberty.",
+    "author": "Frank Herbert",
+    "category": "Discipline"
+  },
+  {
+    "id": 734,
+    "quote": "The only way to gain self-respect is to win victories over your own comfort.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 735,
+    "quote": "Discipline is the difference between goals and achievements.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 736,
+    "quote": "The mind is like a muscle; it grows stronger through disciplined training.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 737,
+    "quote": "Never sacrifice what you want most for what you want now.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 738,
+    "quote": "A disciplined mind leads to happiness, and an undisciplined mind leads to suffering.",
+    "author": "Buddha",
+    "category": "Discipline"
+  },
+  {
+    "id": 739,
+    "quote": "The secret of your future is hidden in your daily routine.",
+    "author": "Mike Murdock",
+    "category": "Discipline"
+  },
+  {
+    "id": 740,
+    "quote": "It's easy to make promises, but hard to keep them. Discipline is keeping them.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 741,
+    "quote": "Do not wait for inspiration. Start with discipline.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 742,
+    "quote": "Discipline is the key to consistency, and consistency is the key to success.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 743,
+    "quote": "Discipline is doing what needs to be done, even when you don't want to.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 744,
+    "quote": "A disciplined life is a powerful life.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 745,
+    "quote": "Self-command is the first step to self-victory.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 746,
+    "quote": "Work in silence, build with discipline.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 747,
+    "quote": "The habits you build today determine your tomorrow.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 748,
+    "quote": "Discipline is the cornerstone of great character.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 749,
+    "quote": "He who masters his habits masters his life.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 750,
+    "quote": "Discipline is the choice to do what is right, not what is easy.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 751,
+    "quote": "A disciplined mind is a free mind.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 752,
+    "quote": "Discipline is the foundation of all achievement.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 753,
+    "quote": "The pain of discipline is nothing compared to the pain of regret.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 754,
+    "quote": "Without discipline, talent is just potential.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 755,
+    "quote": "Self-discipline is the master key to success.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 756,
+    "quote": "Rule your habits, or they will rule you.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 757,
+    "quote": "Discipline is the bridge to your dreams.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 758,
+    "quote": "He who conquers himself is the greatest champion.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 759,
+    "quote": "Self-control is the ultimate strength.",
+    "author": "Unknown",
+    "category": "Discipline"
+  },
+  {
+    "id": 760,
+    "quote": "Growth is the only evidence of life.",
+    "author": "John Henry Newman",
+    "category": "Self Growth"
+  },
+  {
+    "id": 761,
+    "quote": "Change is inevitable. Growth is optional.",
+    "author": "John C. Maxwell",
+    "category": "Self Growth"
+  },
+  {
+    "id": 762,
+    "quote": "If we don't change, we don't grow. If we don't grow, we aren't really living.",
+    "author": "Gail Sheehy",
+    "category": "Self Growth"
+  },
+  {
+    "id": 763,
+    "quote": "The tiny seed knew that in order to grow, it needed to be covered in dirt, buried in darkness, and struggle to reach the light.",
+    "author": "Sandra Kring",
+    "category": "Self Growth"
+  },
+  {
+    "id": 764,
+    "quote": "You cannot grow unless you are willing to feel awkward and uncomfortable when you try something new.",
+    "author": "Brian Tracy",
+    "category": "Self Growth"
+  },
+  {
+    "id": 765,
+    "quote": "We are all searchers, seeking our own growth.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 766,
+    "quote": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+    "author": "Alan Watts",
+    "category": "Self Growth"
+  },
+  {
+    "id": 767,
+    "quote": "What you do today can improve all your tomorrows.",
+    "author": "Ralph Marston",
+    "category": "Self Growth"
+  },
+  {
+    "id": 768,
+    "quote": "Invest in yourself. Your career is the engine of your wealth.",
+    "author": "Paul Clitheroe",
+    "category": "Self Growth"
+  },
+  {
+    "id": 769,
+    "quote": "Be the designer of your world and not merely the consumer of it.",
+    "author": "James Clear",
+    "category": "Self Growth"
+  },
+  {
+    "id": 770,
+    "quote": "Growth is a process of trial and error: a series of experiments.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 771,
+    "quote": "There are no failures - just experiences and reactions.",
+    "author": "Tom Krause",
+    "category": "Self Growth"
+  },
+  {
+    "id": 772,
+    "quote": "The key to growth is the introduction of higher dimensions of consciousness into our awareness.",
+    "author": "Lao Tzu",
+    "category": "Self Growth"
+  },
+  {
+    "id": 773,
+    "quote": "Unless you try to do something beyond what you have already mastered, you will never grow.",
+    "author": "Ronald E. Osborn",
+    "category": "Self Growth"
+  },
+  {
+    "id": 774,
+    "quote": "All growth depends upon activity.",
+    "author": "Calvin Coolidge",
+    "category": "Self Growth"
+  },
+  {
+    "id": 775,
+    "quote": "A mind that is stretched by a new experience can never go back to its old dimensions.",
+    "author": "Oliver Wendell Holmes Jr.",
+    "category": "Self Growth"
+  },
+  {
+    "id": 776,
+    "quote": "Growth is an erratic forward movement: two steps forward, one step back.",
+    "author": "Abraham Maslow",
+    "category": "Self Growth"
+  },
+  {
+    "id": 777,
+    "quote": "Self-correction is the first step to self-growth.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 778,
+    "quote": "Do not compare yourself to others. Compare yourself to who you were yesterday.",
+    "author": "Jordan Peterson",
+    "category": "Self Growth"
+  },
+  {
+    "id": 779,
+    "quote": "The longest distance is the distance between head and heart.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 780,
+    "quote": "Personal development is a lifetime journey.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 781,
+    "quote": "Your potential is unlimited, you only limit yourself.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 782,
+    "quote": "The tragedy of life is not that it ends so soon, but that we wait so long to begin it.",
+    "author": "Declan Layne",
+    "category": "Self Growth"
+  },
+  {
+    "id": 783,
+    "quote": "We must fall to rise, fail to grow, and hurt to love.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 784,
+    "quote": "Every day is another chance to improve yourself.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 785,
+    "quote": "You are a work in progress, and that's okay.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 786,
+    "quote": "Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.",
+    "author": "Stephen Covey",
+    "category": "Self Growth"
+  },
+  {
+    "id": 787,
+    "quote": "The comfort zone is a beautiful place, but nothing ever grows there.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 788,
+    "quote": "Continuous improvement is better than delayed perfection.",
+    "author": "Mark Twain",
+    "category": "Self Growth"
+  },
+  {
+    "id": 789,
+    "quote": "Out of your vulnerabilities will come your strength.",
+    "author": "Sigmund Freud",
+    "category": "Self Growth"
+  },
+  {
+    "id": 790,
+    "quote": "Every moment is a fresh beginning.",
+    "author": "T.S. Eliot",
+    "category": "Self Growth"
+  },
+  {
+    "id": 791,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 792,
+    "quote": "Grow through what you go through.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 793,
+    "quote": "Self-education is, I firmly believe, the only kind of education there is.",
+    "author": "Isaac Asimov",
+    "category": "Self Growth"
+  },
+  {
+    "id": 794,
+    "quote": "The best investment you can make is in yourself.",
+    "author": "Warren Buffett",
+    "category": "Self Growth"
+  },
+  {
+    "id": 795,
+    "quote": "What we achieve inwardly will change outer reality.",
+    "author": "Plutarch",
+    "category": "Self Growth"
+  },
+  {
+    "id": 796,
+    "quote": "You have to grow from the inside out. None can teach you, none can make you spiritual.",
+    "author": "Swami Vivekananda",
+    "category": "Self Growth"
+  },
+  {
+    "id": 797,
+    "quote": "Growth is the great separator between those who succeed and those who do not.",
+    "author": "John Maxwell",
+    "category": "Self Growth"
+  },
+  {
+    "id": 798,
+    "quote": "Self-development is a process of learning, unlearning, and relearning.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 799,
+    "quote": "Your level of success will rarely exceed your level of personal development.",
+    "author": "Hal Elrod",
+    "category": "Self Growth"
+  },
+  {
+    "id": 800,
+    "quote": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else.",
+    "author": "Judy Garland",
+    "category": "Self Growth"
+  },
+  {
+    "id": 801,
+    "quote": "You cannot dream yourself into a character; you must hammer and forge yourself one.",
+    "author": "James A. Froude",
+    "category": "Self Growth"
+  },
+  {
+    "id": 802,
+    "quote": "What is necessary to change a person is to change his awareness of himself.",
+    "author": "Abraham Maslow",
+    "category": "Self Growth"
+  },
+  {
+    "id": 803,
+    "quote": "The only journey is the one within.",
+    "author": "Rainer Maria Rilke",
+    "category": "Self Growth"
+  },
+  {
+    "id": 804,
+    "quote": "Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them.",
+    "author": "William Shakespeare",
+    "category": "Self Growth"
+  },
+  {
+    "id": 805,
+    "quote": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale",
+    "category": "Self Growth"
+  },
+  {
+    "id": 806,
+    "quote": "Self-growth is a journey, not a race.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 807,
+    "quote": "Grow through every experience, good or bad.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 808,
+    "quote": "The best investment is in your own growth.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 809,
+    "quote": "To grow is to change, and to be perfect is to have changed often.",
+    "author": "Winston Churchill",
+    "category": "Self Growth"
+  },
+  {
+    "id": 810,
+    "quote": "You are never too old to learn and grow.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 811,
+    "quote": "Self-improvement begins with self-awareness.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 812,
+    "quote": "The tiny seed struggles through the dark to reach the light.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  },
+  {
+    "id": 813,
+    "quote": "We grow when we step out of our comfort zone.",
+    "author": "Unknown",
+    "category": "Self Growth"
+  }
+]
