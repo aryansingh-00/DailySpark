@@ -14,24 +14,20 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
         return (
           <div className="space-y-4 text-xs leading-relaxed text-muted-foreground">
             <h3 className="text-sm font-bold text-foreground">Privacy Policy</h3>
-            <p><strong>Effective Date: July 17, 2026</strong></p>
+            <p><strong>Effective Date: August 26, 2026</strong></p>
             <p>
-              DailySpark built the DailySpark app as a Free app. This SERVICE is provided by DailySpark at no cost and is intended for use as is.
+              DailySpark operates as a local-first application. All of your personal app data—including saved favorite quotes, custom created quote designs, streak progress, and daily achievements—is stored strictly on your local device.
+            </p>
+            <h4 className="text-xs font-bold text-foreground">Google AdMob Advertisements</h4>
+            <p>
+              To support app development and keep DailySpark free, we integrate Google AdMob (Google LLC) to display advertisements. AdMob and its advertising partners may collect device identifiers (such as the Android Advertising ID), IP address, and app performance metrics to serve ads.
             </p>
             <p>
-              This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+              You can manage your ad consent and personalization choices inside the app settings or via your Android device Google Settings (Settings &gt; Google &gt; Ads).
             </p>
-            <h4 className="text-xs font-bold text-foreground">Information Collection and Use</h4>
+            <h4 className="text-xs font-bold text-foreground">Third-Party Privacy Links</h4>
             <p>
-              DailySpark operates entirely offline. We do not transmit, harvest, or collect your personal data or saved quotes database to external servers. All custom quotes, favorites, streaks, and achievements are stored strictly on your local device repository.
-            </p>
-            <h4 className="text-xs font-bold text-foreground">Log Data & Cookies</h4>
-            <p>
-              We use local storage cookies to retain user preferences such as Dark Mode settings and notification alerts configuration. These preferences remain entirely on your device and are never sold or transmitted.
-            </p>
-            <h4 className="text-xs font-bold text-foreground">AdMob Advertisements</h4>
-            <p>
-              If enabled, we display mock AdMob advertisements to support development. Google uses identifiers to serve ads based on your visits. You can opt-in or opt-out of ad personalization inside the application settings dashboard.
+              For more information on how Google collects and processes advertising data, please review the <a href="https://policies.google.com/privacy" target="_blank" rel="noreferrer" className="text-primary underline">Google Privacy Policy</a>.
             </p>
           </div>
         );
@@ -39,20 +35,17 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
         return (
           <div className="space-y-4 text-xs leading-relaxed text-muted-foreground">
             <h3 className="text-sm font-bold text-foreground">Terms & Conditions</h3>
-            <p><strong>Last Updated: July 17, 2026</strong></p>
+            <p><strong>Last Updated: August 26, 2026</strong></p>
             <p>
-              By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.
+              By downloading or using DailySpark, these terms automatically apply to you. You are granted a personal, non-exclusive, non-transferable license to use DailySpark for personal motivation and quote creation.
             </p>
+            <h4 className="text-xs font-bold text-foreground">Usage & Modifications</h4>
             <p>
-              You are not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You are not allowed to attempt to extract the source code of the app, and you also shouldn't try to translate the app into other languages or make derivative versions.
+              You are not permitted to reverse engineer, decompile, or extract the app source code, trademarks, or proprietary branding.
             </p>
-            <h4 className="text-xs font-bold text-foreground">Intellectual Property</h4>
+            <h4 className="text-xs font-bold text-foreground">Admob & Third-Party Content</h4>
             <p>
-              The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to DailySpark.
-            </p>
-            <h4 className="text-xs font-bold text-foreground">Offline Disclaimer</h4>
-            <p>
-              Since DailySpark operates entirely offline, we are not responsible for any data loss occurring from clearing browser caches, factory resetting devices, or uninstalling application data.
+              DailySpark displays sponsored content provided by Google AdMob. DailySpark does not endorse third-party products advertised within third-party banner or interstitial ad placements.
             </p>
           </div>
         );
