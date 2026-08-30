@@ -1,21 +1,27 @@
 # Add project specific ProGuard rules here.
-# You can control the set of applied configuration files using the
-# proguardFiles setting in build.gradle.
-#
-# For more details, see
-#   http://developer.android.com/guide/developing/tools/proguard.html
+# For R8 code shrinking and optimization
 
-# If your project uses WebView with JS, uncomment the following
-# and specify the fully qualified class name to the JavaScript interface
-# class:
-#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
-#   public *;
-#}
+# Suppress missing class warnings from Kotlin & Capacitor plugins
+-dontwarn kotlin.coroutines.jvm.internal.SpillingKt
+-dontwarn kotlin.**
+-dontwarn com.capacitorjs.plugins.**
+-dontwarn com.getcapacitor.**
 
-# Uncomment this to preserve the line number information for
-# debugging stack traces.
-#-keepattributes SourceFile,LineNumberTable
+# Preserve Capacitor Native JS interfaces
+-keepclassmembers class * {
+    @android.webkit.JavascriptInterface <methods>;
+}
+-keep class com.getcapacitor.** { *; }
+-keep class com.getcapacitor.community.admob.** { *; }
 
-# If you keep the line number information, uncomment this to
-# hide the original source file name.
-#-renamesourcefileattribute SourceFile
+# Preserve Google Mobile Ads SDK / AdMob
+-keep class com.google.android.gms.ads.** { *; }
+-keep class com.google.ads.** { *; }
+
+# Preserve WebView Javascript interfaces & native methods
+-keepattributes *Annotation*,Signature,InnerClasses,EnclosingMethod
+-keepattributes SourceFile,LineNumberTable
+
+# Preserve AndroidX & Native components
+-keep class androidx.appcompat.** { *; }
+-keep class androidx.coordinatorlayout.** { *; }
