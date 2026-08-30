@@ -30,10 +30,26 @@ import { adService } from "@/services/adService";
 import { AdaptiveBannerAd, InterstitialAdModal, RewardedAdModal } from "@/components/AdComponents";
 import { toast } from "sonner";
 import type { Quote } from "@/models/quote";
+import { nativeShare, nativeCopy } from "@/utils/nativeActions";
+
+const getCleanCategoryName = (raw: string) => {
+  if (!raw) return "";
+  try {
+    let decoded = raw;
+    while (decoded.includes("%")) {
+      const next = decodeURIComponent(decoded);
+      if (next === decoded) break;
+      decoded = next;
+    }
+    return decoded;
+  } catch {
+    return raw;
+  }
+};
 
 export const Route = createFileRoute("/categories/$category")({
   head: ({ params }) => {
-    const category = decodeURIComponent(params.category);
+    const category = getCleanCategoryName(params.category);
     return {
       meta: [
         { title: `${category} Quotes – DailySpark` },
@@ -109,7 +125,7 @@ const QuoteListCard = memo(({
             )}
           </button>
           <button
-            onClick={() => onShare(q.quote, q.author)}
+            onClick={() => onShareCard(q)}
             className="flex h-9 w-9 items-center justify-center rounded-xl bg-muted text-muted-foreground transition-all hover:bg-muted/80 hover:text-foreground active:scale-90"
             aria-label="Share quote"
           >
@@ -138,7 +154,7 @@ QuoteListCard.displayName = "QuoteListCard";
 
 function CategoryDetailPage() {
   const { category: encodedCategory } = Route.useParams();
-  const category = decodeURIComponent(encodedCategory);
+  const category = getCleanCategoryName(encodedCategory);
   const navigate = useNavigate();
 
   const { favorites, isFavorite, toggleFavorite } = useFavorites();
@@ -251,9 +267,9 @@ function CategoryDetailPage() {
     toggleFavorite(q);
   };
 
-  const handleCopy = (text: string) => {
+  const handleCopy = async (text: string) => {
     triggerHaptic();
-    navigator.clipboard.writeText(text);
+    await nativeCopy(text);
     incrementMetric("copy", favorites.length);
     toast.success("Quote copied to clipboard!", {
       className: "rounded-2xl",
@@ -264,22 +280,9 @@ function CategoryDetailPage() {
     triggerHaptic();
     const textToShare = `“${quoteText}” — ${author} (via DailySpark)`;
     incrementMetric("share", favorites.length);
-    if (navigator.share) {
-      try {
-        await navigator.share({
-          text: textToShare,
-          title: "DailySpark Quote",
-        });
-      } catch (err) {
-        // Canceled share
-      }
-    } else {
-      navigator.clipboard.writeText(textToShare);
-      toast.success("Quote copied for sharing!", {
-        className: "rounded-2xl",
-      });
-    }
+    await nativeShare(textToShare);
   };
+
 
   const logReadQuote = (quote: Quote) => {
     incrementMetric("read", favorites.length);

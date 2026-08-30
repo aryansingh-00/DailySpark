@@ -16,7 +16,7 @@ export function BottomNav() {
     <nav className="fixed inset-x-0 bottom-0 z-40 flex justify-center px-4 pb-4 pt-2 pointer-events-none">
       <div className="pointer-events-auto flex w-full max-w-md items-center justify-between rounded-3xl bg-card/90 p-2 shadow-glow ring-1 ring-border backdrop-blur-lg">
         {tabs.map(({ to, label, icon: Icon }) => {
-          const active = pathname === to;
+          const active = to === "/" ? pathname === "/" : pathname.startsWith(to);
           return (
             <Link
               key={to}

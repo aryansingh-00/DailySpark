@@ -46,6 +46,7 @@ import { AdaptiveBannerAd, InterstitialAdModal } from "@/components/AdComponents
 import { ConsentBanner } from "@/components/ConsentBanner";
 import { toast } from "sonner";
 import type { Quote } from "@/models/quote";
+import { nativeShare, nativeCopy } from "@/utils/nativeActions";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -171,7 +172,7 @@ const QuoteItemCard = memo(
               )}
             </button>
             <button
-              onClick={() => onShare(q.quote, q.author)}
+              onClick={() => onShareCard(q)}
               className="flex h-9 w-9 items-center justify-center rounded-xl bg-muted text-muted-foreground transition-all hover:bg-muted/80 hover:text-foreground active:scale-90"
               aria-label="Share quote"
             >
@@ -339,9 +340,9 @@ function HomePage() {
   };
 
   // Copy handler
-  const handleCopy = (text: string) => {
+  const handleCopy = async (text: string) => {
     triggerHaptic();
-    navigator.clipboard.writeText(text);
+    await nativeCopy(text);
     incrementMetric("copy", favorites.length);
     toast.success("Quote copied to clipboard!", {
       className: "rounded-2xl",
@@ -353,19 +354,7 @@ function HomePage() {
     triggerHaptic();
     const textToShare = `“${quoteText}” — ${author} (via DailySpark)`;
     incrementMetric("share", favorites.length);
-    if (navigator.share) {
-      try {
-        await navigator.share({
-          text: textToShare,
-          title: "DailySpark Quote",
-        });
-      } catch (err) {}
-    } else {
-      navigator.clipboard.writeText(textToShare);
-      toast.success("Quote copied for sharing!", {
-        className: "rounded-2xl",
-      });
-    }
+    await nativeShare(textToShare);
   };
 
   // Share as Image modal trigger
@@ -471,7 +460,7 @@ function HomePage() {
   // Custom Card Designer Direct Open
   const handleOpenCardDesigner = () => {
     handleActionWithAd(() => {
-      setImageGenQuote(undefined);
+      setImageGenQuote(null);
       setShowImageGenModal(true);
     });
   };
@@ -904,7 +893,7 @@ function HomePage() {
                       handleActionWithAd(() =>
                         navigate({
                           to: "/categories/$category",
-                          params: { category: encodeURIComponent(c.name) },
+                          params: { category: c.name },
                         }),
                       )
                     }
@@ -972,7 +961,7 @@ function HomePage() {
                       handleActionWithAd(() =>
                         navigate({
                           to: "/categories/$category",
-                          params: { category: encodeURIComponent(cat) },
+                          params: { category: cat },
                         }),
                       )
                     }

@@ -56,7 +56,7 @@ function CategoriesPage() {
                 onClick={() =>
                   navigate({
                     to: "/categories/$category",
-                    params: { category: encodeURIComponent(c.name) },
+                    params: { category: c.name },
                   })
                 }
               />
