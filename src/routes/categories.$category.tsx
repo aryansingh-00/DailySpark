@@ -190,22 +190,12 @@ function CategoryDetailPage() {
   };
   const Icon = categoryIconMap[meta.iconName as keyof typeof categoryIconMap] || categoryIconMap.Flame;
 
-  // Check premium category status
+  // All categories 100% unlocked for everyone
   useEffect(() => {
     applyTheme(themeIndex);
-
-    const checkPremiumStatus = () => {
-      const isPremiumCategory = category === "Discipline" || category === "Self Growth";
-      const unlocked = adService.isPremiumUnlocked();
-      setPremiumUnlocked(unlocked);
-      setIsLocked(isPremiumCategory && !unlocked && !adService.isOffline());
-    };
-
-    checkPremiumStatus();
+    setPremiumUnlocked(true);
+    setIsLocked(false);
     addCategoryExplored(category, favorites.length);
-
-    // Subscribe to ad status changes
-    return adService.subscribe(checkPremiumStatus);
   }, [category]);
 
   const quotes = useMemo(() => {

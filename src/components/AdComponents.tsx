@@ -9,48 +9,25 @@ export function AdaptiveBannerAd() {
 
   useEffect(() => {
     const checkAdStatus = () => {
-      // Hide banner if offline or premium is unlocked or declined ads
       const offline = adService.isOffline();
-      const premium = adService.isPremiumUnlocked();
-      const consentType = adService.getConsentType();
-      setShouldRender(!offline && !premium && consentType !== "declined");
+      const enabled = !offline;
+      setShouldRender(enabled);
+      if (enabled) {
+        adService.showNativeBanner();
+      } else {
+        adService.hideNativeBanner();
+      }
     };
 
     checkAdStatus();
-    // Subscribe to adService updates
     return adService.subscribe(checkAdStatus);
   }, []);
 
   if (!shouldRender) return null;
 
-  return (
-    <div className="mx-auto my-3 w-full max-w-md px-5 animate-fade-in">
-      <div className="relative overflow-hidden rounded-2xl bg-card border border-border/80 p-3 flex items-center justify-between shadow-soft ring-1 ring-border/20">
-        <span className="absolute left-2.5 top-2 rounded bg-muted-foreground/15 px-1.5 py-0.5 text-[8px] font-bold text-muted-foreground uppercase tracking-widest leading-none">
-          Ad
-        </span>
-        <div className="flex-1 flex items-center gap-3 pl-8 pr-2">
-          <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary">
-            <Sparkles className="h-5 w-5 animate-pulse" />
-          </div>
-          <div className="overflow-hidden">
-            <div className="text-[11px] font-bold text-foreground">SparkFitness – Peak Workouts</div>
-            <div className="text-[9px] text-muted-foreground truncate">Build discipline offline. Download now!</div>
-          </div>
-        </div>
-        <button
-          onClick={() =>
-            toast.info("Sponsored AdMob placement demo. Keep the app free!", {
-              className: "rounded-2xl",
-            })
-          }
-          className="rounded-xl bg-primary px-3 py-1.5 text-[10px] font-bold text-primary-foreground shadow-soft transition-transform hover:scale-105 active:scale-95"
-        >
-          Install
-        </button>
-      </div>
-    </div>
-  );
+  // Real AdMob banner overlays natively on mobile devices.
+  // We provide a bottom spacer so app content doesn't get obscured.
+  return <div className="h-14 w-full" aria-hidden="true" />;
 }
 
 // 2. Interstitial Ad Modal Component
