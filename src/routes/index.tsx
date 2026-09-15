@@ -883,21 +883,19 @@ function HomePage() {
             <div className="mt-4 flex gap-4 overflow-x-auto px-5 pb-3 scrollbar-none snap-x snap-mandatory">
               {categories.slice(0, 5).map((c) => (
                 <div key={c.name} className="flex-shrink-0 w-44 snap-start">
-                  <CategoryCard
-                    icon={c.icon}
-                    name={c.name}
-                    count={c.count}
-                    gradient={c.gradient}
-                    compact
-                    onClick={() =>
-                      handleActionWithAd(() =>
-                        navigate({
-                          to: "/categories/$category",
-                          params: { category: c.name },
-                        }),
-                      )
-                    }
-                  />
+                  <Link
+                    to="/categories/$category"
+                    params={{ category: c.name }}
+                    className="block text-left transition-transform active:scale-95 focus:outline-none"
+                  >
+                    <CategoryCard
+                      icon={c.icon}
+                      name={c.name}
+                      count={c.count}
+                      gradient={c.gradient}
+                      compact
+                    />
+                  </Link>
                 </div>
               ))}
               <div className="flex-shrink-0 w-36 flex items-center justify-center snap-start">

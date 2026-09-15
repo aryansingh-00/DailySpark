@@ -1,4 +1,4 @@
-import { createFileRoute, useNavigate } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { useState, useMemo } from "react";
 import { AppShell } from "@/components/AppShell";
 import { CategoryCard } from "@/components/CategoryCard";
@@ -16,7 +16,6 @@ export const Route = createFileRoute("/categories")({
 });
 
 function CategoriesPage() {
-  const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState("");
 
   const categories = useMemo(() => {
@@ -46,20 +45,20 @@ function CategoriesPage() {
       <section className="mt-6 px-5 pb-8">
         {filteredCategories.length > 0 ? (
           <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
-            {filteredCategories.map((c, idx) => (
-              <CategoryCard
+            {filteredCategories.map((c) => (
+              <Link
                 key={c.name}
-                icon={c.icon}
-                name={c.name}
-                count={c.count}
-                gradient={c.gradient}
-                onClick={() =>
-                  navigate({
-                    to: "/categories/$category",
-                    params: { category: c.name },
-                  })
-                }
-              />
+                to="/categories/$category"
+                params={{ category: c.name }}
+                className="block text-left transition-transform active:scale-95 focus:outline-none"
+              >
+                <CategoryCard
+                  icon={c.icon}
+                  name={c.name}
+                  count={c.count}
+                  gradient={c.gradient}
+                />
+              </Link>
             ))}
           </div>
         ) : (
